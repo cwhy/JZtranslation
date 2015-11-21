@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －推荐与个性化：互联网的未来？</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">推荐与个性化：互联网的未来？</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2012-5-15 8:40:46 由 <a href="gerenshouye.php?userid=2216" target="_blank">jake</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<A>　</A> 
+<P><IMG alt=" " src="http://www.swarma.org/UserFiles/Image/activity/43d37afbadbc5ba.jpg" width=350 height=438><BR>&nbsp; </P>
+<P>时间：5月26日（周六）下午2点半 </P>
+<P>地点：叁号会所 </P>
+<P>主讲人：Miner </P>
+<P><STRONG>录音：</STRONG><A href="http://www.duobei.com/manage-course/9080338051">http://www.duobei.com/manage-course/9080338051</A></P>
+<P><STRONG>讲稿：</STRONG> <A href="http://www.swarma.org/download.php?id=440">http://www.swarma.org/bs/download.php?id=440</A></P>
+<P><STRONG>视频：</STRONG><A href="http://v.youku.com/v_show/id_XNDExMjM5NTIw.html">http://v.youku.com/v_show/id_XNDExMjM5NTIw.html</A>, <A href="http://v.youku.com/v_show/id_XNDEwOTc4MjYw.html">http://v.youku.com/v_show/id_XNDEwOTc4MjYw.html</A> </P>
+<P>主要内容：推荐系统的科普介绍 + 现场讨论（业界应用、未来发展）<BR><BR>简介：<BR><BR>-- 工业界：为什么要做推荐与个性化？<BR>背景：从2010到2012，推荐与个性化愈演愈热，各大公司热捧的原因何在？推荐与个性化真的有“钱景”吗？<BR>* Facebook：未来所有媒体都将个性化<BR>* Twitter：个性化服务是最大挑战<BR>* 百度：百度新首页，引入“推荐引擎技术”<BR>* 360浏览器：个性化导航+推荐引擎<BR>* 搜狗：“探索引擎”注重用户个性化需求<BR>* 淘宝：个性化产品推荐<BR>* 豆瓣：首页主打“豆瓣猜”<BR>* ……<BR><BR>-- 学术界：Netflix百万美元竞赛怎样影响了推荐算法研究？<BR>为什么最终Netflix没有在自己的推荐系统中使用竞赛获奖算法？<BR><BR>-- 推荐系统设计要素：<BR>需求分析和用户调研、功能设计、界面设计、架构设计、算法设计、系统评测<BR><BR>-- 没有最好的算法，只有适合的算法：<BR>基于人工标注的、基于内容的、基于统计的、关联规则、协同过滤、基于SNS的、……<BR><BR>-- 推荐与个性化：技术的未来<BR><BR><BR>主讲人：<BR>Miner，集智AI(人工智能)讨论组负责人。<BR><A class=moz-txt-link-freetext href="http://www.douban.com/group/swarmagents_AI/" target=_blank>http://www.douban.com/group/swarmagents_AI/</A><BR><A class=moz-txt-link-freetext href="http://groups.google.com/group/swarmagents_ai/" target=_blank>http://groups.google.com/group/swarmagents_ai/</A> <BR><BR>活动地点：<BR>叁号会所－北京市海淀区北三环联想桥向西300米过街天桥中航工业青云处右转向北200米，过保安站岗的厂区门直行50米，可看到左手边叁号会所指示牌，延着指示牌直行50米，右手边找43C即叁号会所开车、坐车路线图：<A class=moz-txt-link-freetext href="http://www.douban.com/photos" target=_blank>http://www.douban.com/photos</A> /album/21855959/<BR>问路电话：82115288<BR><BR>注：活动免费，场地方收取20元/人的场地费（送一份饮料） </P>      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

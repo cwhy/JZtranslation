@@ -1,0 +1,657 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －互联网的动力引擎</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">互联网的动力引擎</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2015-09-04 01:23:22 由 <a href="gerenshouye.php?userid=2216" target="_blank">jake</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<p>
+	<img alt="" src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1441329652.png" style="width: 1469px; height: 625px;" /></p>
+<p>
+	<b>时间：</b>2015年9月13日 14:30 ～ 2015年9月13日 17:30</p>
+<p>
+	<strong>地点</strong>：<a href="http://www.huodongxing.com/event/map/1298359482100" target="_blank">（北京海淀）海淀区五道口华清嘉园15号楼 2010室 （706青年空间）</a></p>
+<p>
+	<strong>如要参加活动，请到这里：<a href="http://www.huodongxing.com/event/1298359482100">http://www.huodongxing.com/event/1298359482100</a>报名</strong></p>
+<p>
+	<strong>讲稿下载：</strong>http://pan.baidu.com/s/1sjtDROh</p>
+<p>
+	<strong>多贝活动记录（PPT＋原声）</strong>：<span style="color: rgb(0, 0, 0); font-family: &prime;Microsoft Yahei&prime;, 宋体, Arial, Helvetica, sans-serif; font-size: 14px; line-height: 21px;">http://t.cn/RU8yPTy</span></p>
+<p>
+	长尾、众包、分享、链接、免费、开放、反转、跨界&hellip;&hellip;，我们的语言不能穷尽近些年来互联网世界发生的天翻地覆的变化。然而，这些现象背后的本质是什么呢？是什么东西驱动了互联网不断进化？未来的网络世界又将会是什么样子的？</p>
+<p>
+	&nbsp;</p>
+<p>
+	本讲座试图提出一个全新的概念，占意（Be-tention），即广义的注意，也就是你的意识主体在不同概念、事物上的时间分配。占意涵盖了对外在事物的注意（Attention），和对内在需求的意向（Intention）。占意的流动过程则构成了真实的体验（Experience）。于是，人在收获&ldquo;爽&rdquo;的体验同时，也在不知不觉中将源源不断的动力奉献给了机器，这便是互联网演化的原力。</p>
+<p>
+	&nbsp;</p>
+<p>
+	作为一种副产品，占意在与机器的互动中还会辐射超强的问题求解能力。借助越来越先进的人工智能技术，我们将有可能建立桥接娱乐与任务的占意引擎。也许你在爽玩连连看的同时，已经不知不觉地帮助机器解决了信息匹配问题。你消耗的占意被人工智能转化成了虚拟世界中的可用之功。到那时，世界将真正的随心而动。</p>
+<p>
+	&nbsp;</p>
+<p>
+	本讲座将分为4部分：回顾互联网发展、介绍有关注意力的理论、综述人类计算、畅想未来世界。提纲如下：</p>
+<p>
+	&nbsp;</p>
+<p style="margin-left:24pt;">
+	一、&nbsp;这个世界变化快</p>
+<p style="margin-left:24pt;">
+	二、&nbsp;注意力科学</p>
+<p style="margin-left:48pt;">
+	a)&nbsp;注意力经济</p>
+<p style="margin-left:48pt;">
+	b)&nbsp;意愿经济</p>
+<p style="margin-left:48pt;">
+	c)&nbsp;体验经济</p>
+<p style="margin-left:48pt;">
+	d)&nbsp;占意理论</p>
+<p style="margin-left:24pt;">
+	三、&nbsp;众包与人类计算</p>
+<p style="margin-left:48pt;">
+	a)&nbsp;众包1.0</p>
+<p style="margin-left:48pt;">
+	b)&nbsp;众包2.0:&nbsp;人类计算</p>
+<p style="margin-left:48pt;">
+	c)&nbsp;众包3.0:&nbsp;人工智能的作用</p>
+<p style="margin-left:24pt;">
+	四、&nbsp;游戏的世界</p>
+<p style="margin-left:24pt;">
+	&nbsp;</p>
+<p>
+	【如何报名】</p>
+<p>
+	由于席位有限，我们原则上只接受经过活动行报名注册并审核通过的参加者。有意了解读书会活动或深度交流的童鞋请在报名时勾选&ldquo;我要参加小型座谈会&rdquo;选项，审核通过后我们将发送通知给您。</p>
+<p>
+	&nbsp;</p>
+<p>
+	【706的位置】</p>
+<p>
+	北京706青年空间位于海淀区五道口华清嘉园15号楼&nbsp;2010室（20层顶楼复式）。乘坐地铁或公交在五道口站下车，进入华清嘉园小区（有门禁，可跟随人群进入）。</p>
+<p>
+	&nbsp;</p>
+<p>
+	【如何进入706】</p>
+<p>
+	寻找15号楼（楼下有阳光乐购超市），注意门禁已坏，唯一路口就是从&ldquo;阳光乐购&rdquo;超市直接进入。找不到请拨打办公电话：18516993205</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	活动记录：</p>
+<h2>
+	开场白与概述</h2>
+<p>
+	大家好，欢迎来到集智，我们今天的讲座题目是&ldquo;互联网的动力引擎&rdquo;。互联网现在非常火，&ldquo;互联网+&rdquo;的提法已经进入了政府工作报告。那么，面对互联网风风火火的发展，我们不禁要思考这样一个问题，究竟是什么推动了互联网发展，并深层次影响了人类社会？这就是我们试图思考的问题。</p>
+<p>
+	&nbsp;</p>
+<p>
+	我们的思考策略呢，是采用一种大视角，即不关注技术细节，试图从纷繁复杂的现象背后找到本质规律。我本人是系统科学专业背景，对互联网里面的很多技术都是外行，所以只能从大尺度上讲一讲。</p>
+<p>
+	&nbsp;</p>
+<p>
+	讲座由4部分组成。首先，还是回顾一下历史的进展，然后尝试提出自己的理论，即&ldquo;占意&rdquo;理论，它就是广义的注意力，它的流动推动了互联网演化。接下来则介绍一些我们自己已做的一些具体工作，本次活动之后还会有读书会，大约6-7期，还会更详细地讨论。最后部分是一个展望。国外有很多学者都喜欢眺望未来，比如凯文凯利、库兹维尔等等，他们被冠以&ldquo;未来学家&rdquo;的称号。但好像中国的学者都不愿意发表什么意见，几乎听不到他们的声音。但我觉得，不就是开一下脑洞，展望一下未来吗？反正你说错了也没人罚款，所以我今天就尝试说一说未来。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>这个世界变化快</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	互联网给我们现在的生活已经带来了非常大的冲击，很多东西都在反转。例如，《中国好声音》这种娱乐方式就很特别，原来是听众在下面听歌星在台上唱，现在反过来，观众走到了台上。</p>
+<p>
+	&nbsp;</p>
+<p>
+	再比如，弹幕视频。90后们看电影都不好好看，非要敲上满屏的文字，完全看不到剧情。人家说，人玩的就是这么一个互动的体验。</p>
+<p>
+	&nbsp;</p>
+<p>
+	我现在是大学老师，看起来好像一个很安稳的职业。但最近也感觉到了压力，似乎互联网革命马上就要把我们的后路给抄了。这就是MOOC，学生们随时随地只要打开电脑就能享受到全世界最先进的教育资源。老师们，特别是那些公共课、基础课的老师们，基本上就只能答答疑了，也就是现在所说的翻转课堂模式。不过我自己本身并没有感受到特别大的压力，因为我自信我的课是独一无二的，我给学生们带去的不是知识，而是45分钟的特别的体验之旅。</p>
+<p>
+	&nbsp;</p>
+<p>
+	还有一个例子就是我们集智俱乐部，完全是一个民间的草根组织，什么都没有就发展起来了，居然很受欢迎。今年7月份在没有什么宣传的情况下在南京开了一个年会。结果，来了100人，远远超出了我们20多人的预估，居然南京比北京来的人更多。为什么这么多支持者呢？这与我们面向互联网、草根的背景是分不开的。也许正是我们这样的性质，才使得我们可以去探索一些看似不靠谱，学院派人士不敢触碰的问题。</p>
+<p>
+	&nbsp;</p>
+<p>
+	互联网带来这么大的冲击，我们自然就会想，其背后的原因是什么？于是在暑假期间我阅读了大量的书籍，比如《长尾理论》、《维基经济学》、《众包》、《免费》、《互联网＋》、《连接者》、《跨界》等等。但是所有这些书，我看完之后却觉得总是有一点点不过瘾。这就好像有那么一头大象，所有这些理论都摸到了大象的一部分，但却没有看到大象这个整体一样。所以我在试图将这些看到、想到的东西联系起来，我猜测很有可能这头大象背后有一个很重要的东西。这就像19世纪的热力学，工程师们创造了各式各样的热机，但却并不了解为什么燃烧煤能够驱动引擎，直到后来迈尔、焦耳等人认识到能量这个概念，并提出了热力学第一定律，这些科学的发现才使得人们得以对本已碎片化的知识能够有一个全新的统一认识。互联网也是这样，我觉得背后有种力量在推动着它。那么这种力量是什么呢?我认为就是我们的&ldquo;注意力&rdquo;。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>《黑客帝国》图景</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	<img alt="" src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408643.png" style="width: 865px; height: 652px;" /></p>
+<p align="center">
+	《黑客帝国》中的图景：人类为机器提供能量，机器为人提供沉浸的虚拟世界</p>
+<p align="center">
+	&nbsp;</p>
+<p>
+	那么这整个图景是什么样的呢？让我们忽略细节，洞察本质。《黑客帝国》这个电影中的情节很好地诠释了我所看到的东西。《黑客帝国》说，在22世纪，机器统治了人类。方法不是杀掉人，而是把人圈养起来，造了一个大型的虚拟世界，叫Matrix，所有人接入电极，生活在这个虚拟世界里。而真实的肉体的人，则变成了一块块&ldquo;电池&rdquo;，将生物电供给机器。因此人对机器起的作用就是供给能量，而机器给人就是提供了一个大型虚拟世界，供人们醉生梦死。虽然这是科幻，但在我看来，这个场景一点都不陌生，因为它现在正在发生。只是我们需要换一种方式理解能量，它不是实实在在的能用焦耳衡量的能量，而是我们的注意力。</p>
+<p>
+	&nbsp;</p>
+<p>
+	大家想想看，你一天24小时的生活除了睡觉、吃饭，是不是有80-90%的时间是在面对屏幕？各种各样的屏幕。当你注视这些屏幕时，你已经在把你的注意力投射给屏幕背后的机器世界了，只有被你注意到的程序和应用，才会向前发展、才会更新换代。现在微信野心非常大。它的公众平台要变成一个互联网的新操作系统，把APP、iOS、Android等等平台全部架空。为什么它可以做到？就是因为它有注意力，因为它有非常大量的用户群，因此就获得了巨大的能量，可以自己生长、进化。所以注意力就是一种&ldquo;能量&rdquo;，如果你这样去理解的话，你就会发现黑客帝国所描述的情景正在发生着，而且人类贡献的能量百分比还会越来越高。因为越来越多的人买手机买电视进入虚拟世界，你缺少虚拟世界就生活不了。</p>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408680.png" style="width: 348px; height: 226px;" /></p>
+<p align="center">
+	注意力与程序的关系</p>
+<p>
+	&nbsp;</p>
+<p>
+	为什么可以这样去看呢？如果我们把计算机看成生态系统，那么每个01程序段就是一个生命体，而CPU 时间就像太阳的能量一样：能够争夺到CPU时间的程序才可以完成运算，经常的被使用，人们才有可能去改进它。反过来，没有人使用的程序，实际上是没有用的。进一步讲，什么东西决定了CPU时间的分配呢？恰恰是坐在屏幕前的人，是你的注意力。你注意到的程序才可能使用它。所以说人就像太阳，注意力就像能量，是它辐射了程序世界，促成了它们的进化。注意力流也会像能量流一样做功，这就是众包及人类计算。</p>
+<p>
+	&nbsp;</p>
+<p>
+	因此我给出前面问题的答案，互联网的动力就是人类的注意力。如何获得人类的注意力呢？最有效的获取注意力的方法就是游戏。所以我的答案就是，未来互联网的动力引擎就是游戏。游戏就像发电机一样，利用游戏，我们便可以得到无穷的能量输送，从而促使互联网向前发展。</p>
+<p>
+	&nbsp;</p>
+<h2>
+	注意力科学综述</h2>
+<p>
+	<strong>注意力经济学派</strong></p>
+<p>
+	所以，重中之重就是人类的注意力。下面，我们就通过回顾历史，了解目前人们对注意力的科学认识都有哪些。首先，我们都知道，注意力本身是每个人与生俱来的东西。每个小孩出生时就会哭泣，哭泣本身就是在吸引爸爸妈妈的注意力。每个人都需要注意力，注意力是第一动因，因为被注意之后才有可能被赋予名誉、金钱等等。但注意力受到科学家们重视却相对较晚，第一个看到注意力重要性的人是郝伯特.西蒙（Herbert Simon），他是诺经济学奖和图灵奖的双料得主，还是人工智能之父之一。他在1971年曾提到 &ldquo;在未来，当信息异常丰富，信息的反面将成为一种稀缺。信息的反面是什么呢？就是注意力。&rdquo;从而第一次明确了注意力的重要地位。但后来，由于西蒙的研究注意力没有在注意力上，故没有更多的深入讨论。</p>
+<p>
+	&nbsp;</p>
+<p>
+	而将注意力研究进一步向前推进的人物就是高德哈勃(Goldhabor)。传播学领域的人对他比较推崇，称他为注意力经济领域里的爱因斯坦。他最著名的一篇文章《Attention economy and the net》不是发表在学术期刊上，而是一篇普通的博文，但现在这篇文章已经被奉为注意力经济学派中的经典。在1997年的这篇文章中，他有很多大胆的预测，例如，他提到未来社会中，组织将消亡。这是我们现在社会正在发生的事情，越来越多的大公司、大组织正在渐渐变得迟钝、毛病缠身。还有他预测货币的作用正在逐渐淡化，社会越来越透明化，等等。这些预测在今天看来都已经发生了或初现端倪了。</p>
+<p>
+	&nbsp;</p>
+<p>
+	高德哈勃还指出注意力可以创造假象，还能控制别人。当我说&ldquo;大象！&rdquo;，你的头脑中就会产生大象的印象。有多少人头脑中出现了大象请举手？OK，请放下。这说明什么呢？说明当你全神贯注地听我演讲的时候，我就可以利用你们的注意力&ldquo;控制&rdquo;你们的思维，进而&ldquo;控制&rdquo;你们的行动了，所以我让你们举手，你们就真的举手了。这是高德哈勃在当年演讲的时候玩的一个很好玩的试验，说明拥有注意力的重要性。</p>
+<p>
+	&nbsp;</p>
+<p>
+	还有高德哈勃认为人们的谈话过程不仅仅是信息交换的过程，而更是注意力交换的过程。我们在看待谈话和交流的时候应当忘掉内容，信息和知识本身不再重要，所谓交谈不是在交换信息，而是在交换注意力。例如，两个中国人见面问：你吃了吗？背后并不是真的想知道你是否吃了，我想请你吃饭。而是希望引起别人的注意，而对方回复我吃了，即是回敬了你的这个注意力。推而广之，我们发现所有的对话都是在交换注意力。所以，高德哈勃提出了很多和主流不同的观点，且非常有先见之明。</p>
+<p>
+	&nbsp;</p>
+<p>
+	之后注意力经济开始逐渐流行起来。后来出现了一些代表性人物，例如Thomas Davenport，他提倡注意力管理，非常实用。你不妨仔细想想，你每天被人打断的机会是不是很多？会不会被强迫地关注什么无聊的事情？更让人愤怒的是，这种打扰并不被认为是一种抢劫！要知道，注意力本身是一种资源啊，只有连贯的注意力才能创造价值。而由于注意力资源从来没有被当作一回事，所以才导致了很多大企业的大组织病。为什么有大组织病？为什么我们拿金钱激励不了这些员工?其本质就是在于注意力涣散。这些员工的兴趣点无法统一到统一的目标上去。看看现在大多数都市白领的上班状态吧，估计他们80%时间都在泡淘宝、聊微信、泡QQ，都没在工作上。因为大组织很难激发员工的兴趣，这是最要命的。</p>
+<p>
+	&nbsp;</p>
+<p>
+	到后来注意力经济学派产生了一些分化，产生了一些新的代表性人物和一些颠覆性的观点。例如Doc Searls就提出了意向经济学（Intention economy）。现在注意力经济已经越来越沦为眼球经济了，即一味地广告推销。广告界有一个所谓的&ldquo;漏斗模型&rdquo;，即推出广告后，广告商知道有50%的人是不会看的，但却不知道这50%是哪些人，因此只能通过给100%的人推送广告以吸引眼球，来赚取50%人的注意力。然后，这剩下的50%看了广告的人，可能只有20%的人购买，这样一层一层筛选，最终得到商家想要的最终用户。这就是眼球经济的逻辑，它被人广为诟病，因为这样的广告投放效率非常低。但Searls提出，为什么我们不站在消费者立场去搞呢？消费者本身有很多意向（Intention），意愿本身就会带来消费的可能，我们应该围绕购买者来发展。未来的意向经济应该怎么运作？他举了一个例子：假如一个人要买一辆SUV，他就会在网上发表意愿，表达清楚自己想要的东西。那么很多商家就会围拢过来进行竞标。反向从客户出发形成产业链，这样就构成了意向经济。例如国外有一些网站如CROWDSPRIT就是采用了意向经济学的原理。那么在国内也有少量网站，例如猪八戒网，客户发表意愿，谁能完成来竞标。国内段永朝老师很推崇意愿经济，现在希望开展消费意愿的研究。</p>
+<p>
+	&nbsp;</p>
+<p>
+	更有意思的是，在意愿经济的内部，还有一个怪人叫Steve Pavlina，他曾因一次入狱而顿悟了一套&ldquo;意向显现&rdquo;理论，基本的意思就是每个人都能心想事成。你所要做的就是要把你的注意力放到你的意愿上面，而且一旦意愿产生了之后，就一定要大声地说出来，而且还要反复不停地说。这样，才能让其他人帮助你把它变成真实的东西。他认为，之所以很多人提出愿望之后没有被实现，那是因为他自己没有坚持下去，自己并不相信自己的愿望了，或者是愿望兴趣转移到其它地方去了，这是你自己的而非客观的原因导致了意愿无法实现。互联网无疑会促成和加速&ldquo;意向显现&rdquo;的过程。最有趣的一个例子是有人用一根别针换取了一座豪宅。这位叫做麦克唐纳的年轻人通过以物易物的社交网站，经过20次左右倒手之后，换得了加入一位著名导演的最新影片中拍戏的机会。这个时候，麦克唐纳的愿望已经尽人皆知了，于是加拿大某小镇的镇长决定帮助他实现最终的愿望，以豪宅相送，但前提是要到这座小镇来拍片取景，从而扩大该小镇的知名度。互联网世界真的很神奇，如果你有愿望就要不停地嘀咕、让别人知道，说不定哪天就会有人帮你达成心愿。</p>
+<p>
+	&nbsp;</p>
+<p>
+	最后，注意力经济学派还诞生了体验经济这个新兴名词。体验经济，被认为是继农业经济、工业经济、服务经济之后的第四种经济形态。我们知道，五道口华清嘉园附近有很多玩密室逃脱的地方，他们卖的就是一种体验。你感受的就是一个好玩的经历，服务者基本没有提供什么服务。有一个很好的给小孩过生日的例子可以区分农业、工业、服务、体验这四种经济形态。要给小孩过生日，需要有一个生日蛋糕。于是，在农业经济时代，妈妈要自己做蛋糕；而在工业经济时代，妈妈需要购买各种原料，然后做蛋糕；到了服务经济时代，妈妈可以到蛋糕房直接购买一个完整的蛋糕。最后，体验经济怎么玩儿？直接把小孩带到深山老林里，体验小孩奶奶在万恶的旧社会是如何过生日的，在这样陌生的环境下自己亲手做一份生日蛋糕。一天下来，小孩不仅游山玩水，还体验了一场人生中独一无二的生日Party。还有很多体验经济的例子，比如我去年去美国的环球影城玩儿。有一个主题乐园是电影《木乃伊》的体验馆，它把过山车和鬼屋揉到了一起。我一个大男人居然在玩的过程中忍不住惊声尖叫了，因为真的很刺激，我得到了一生难忘的体验。玩一次大概要花10多美元，真正的体验只有2-3分钟，但我觉得特别值，这就是一种体验。</p>
+<p>
+	&nbsp;</p>
+<p>
+	好了，到此为止我综述了这些社会科学家们搞的注意力经济流派的主要观点和主要代表人物。这些都比较概念性，那么下面我将简单综述一下从科学和技术的角度，人们对于注意力的研究都有哪些进展。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>基于大数据的集体注意力研究</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	首先，采用科学的手段研究人类集体的注意力最早可以追溯到Hubbermann的研究，他是惠普实验室的研究员，他早在1998年的时候就发了一篇《Science》文章，揭示出来人类浏览网页次数长尾衰减的特性。这篇文章可以算是人类行为动力学的鼻祖级文章了，他比Barabasi的研究早了将近10年。后来，Hubbermann又在集体注意力领域作出了很多有意思的研究。例如，他通过著名网站Digg的研究指出人类群体对新闻的关注存在着快速的衰减特性，而且他计算出了这种衰减的半衰期。在这篇PNAS的论文中，Hubbermann第一次使用了Collective Attention（集体注意力）的词汇。</p>
+<p>
+	&nbsp;</p>
+<p>
+	后来，人们关注的集体注意力问题大多集中在注意力在不同数字资源上的分布问题上。不同的文化基因（Meme）竞争有限的人类注意力。印第安纳大学的一个团队曾经建立了一个有趣的模型来模拟这一现象，并指出来这个过程可以用统计物理中的分支过程来近似，并且，系统中存在着临界的现象。</p>
+<p>
+	&nbsp;</p>
+<p>
+	还有一些人则考虑集体注意力如何随着时间以及突发事件的到来而产生响应和变化。比如Lehmann将不同的相应模式分成了4大类，而Leskovec则研究了不同MEME的动态演化分布，等等。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>计算广告学＋用户行为分析</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	这些集体注意力的研究虽然使用了大量的用户行为数据，揭示出了一些普适的规律，但在实用方面却比较差。在工业界，计算广告学则解决了如何在恰当的地点和恰当的上下文中投放广告的实际问题，并帮助Google、百度这样的大公司赚取了可观的利润。与传统的广告学相比，计算广告学的最大特点就是可以做到广告展示的内容可以因上下文而异。计算广告学研究的问题主要包括：Sponsored Search（赞助搜索）和Recommendation system（推荐系统）两大块。</p>
+<p>
+	&nbsp;</p>
+<p>
+	所谓的赞助搜索就是搜索引擎公司将一定的关键词拍卖给商家。系统会根据搜索关键词的热度来决定广告位的定价。另外，搜索引擎公司还会购买一些个人博客上的广告位，从而做到精准地投放广告。大家知道，Google的AdWords和AdSense系统就是这样工作的，有人将Google的这套系统称为Google的自动印钞机。</p>
+<p>
+	&nbsp;</p>
+<p>
+	推荐系统是大家每天都可能碰到的，比如你上豆瓣，系统就会给你推荐很多你可能感兴趣的书或者人；你上淘宝，系统就会给你推荐一些你可能需要的宝贝。推荐系统背后的工作原理无非就是利用人工智能将人和商品更好地链接起来。</p>
+<p>
+	&nbsp;</p>
+<p>
+	另外，用户行为分析、流量分析、留存分析等等技术手段也是利用大数据的方式研究人类的注意力动态。</p>
+<p>
+	&nbsp;</p>
+<h2>
+	占意与占意流网络</h2>
+<p>
+	<strong>占意</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	好了，我已经从社会科学和自然科学两种方法论概述了注意力科学的历史发展概况。下面呢，综合上述理论，我们将提出自己的一套新的注意力理论。首先，我们发明了一个词儿，叫做占意（Betention），这里&ldquo;占&rdquo;就是占领的占，意就是意识的意。占意，顾名思义就是占领意识。由于我们每个人的主意识在每个时刻只能想一件事儿，所以什么东西占据了意识，以及它的动态演化怎么样就起到了关键性的作用。</p>
+<p>
+	&nbsp;</p>
+<p>
+	当我们的意识被外在的事物所吸引、占据的时候，占意就退化成了注意（Attention）；而当我们的意识被强烈的内心渴望和意愿占据的时候，占意就成为了意愿（Intention）。总而言之，占意就是一种广义的注意。最后，占意会在时间长河中留下一个流动的轨迹，这个轨迹就可以理解为占意主体的体验（Experience）。注意力经济学、意向经济学和体验经济学更多关注的是经济行为，即人与人之间的互动。而占意理论更加关注人的注意力与机器之间的互动。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>占意流与生态食物网类比</strong></p>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408717.png" style="width: 500px; height: 500px;" /></p>
+<p align="center">
+	<strong>生态食物链网：物种之间靠能量流联系</strong></p>
+<p align="center">
+	&nbsp;</p>
+<p>
+	这种占意与机器的互动背后的图景是一个生态食物链网的比喻。在这个比喻中，数字程序可以被类比为生态系统中的物种，而占意在这些数字程序之上的流动就类比为物种之间由于捕食相互作用而产生的能量流。于是，程序和程序就构成了一个相互依赖的复杂网络。在生态系统中，生物在不同的营养级是按照金字塔形状排列的。也就是说越靠近太阳的物种数量越多，而越远离太阳的高营养级物种数量越少。</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408758.png" style="width: 417px; height: 337px;" /></p>
+<p align="center">
+	互联网生态系统：网站间靠占意流联系（此图按照特殊的算法排布所有网站节点）</p>
+<p align="center">
+	&nbsp;</p>
+<p>
+	但是，当我们研究互联网生态系统的时候，却发现网站的分布几乎与生态食物网相反，靠近用户（即&ldquo;太阳&rdquo;）的网站数很少，但它们却集中了大量的流量，远离用户的网站数量却有很多。如上图所示，这是我们用印第安纳大学所有师生上网数据进行可视化之后得到的图。我们可以看到，所有的网站几乎可以分成三个区域（用两个虚线圆分割）。第一区域就是核心区域在最里一圈，它们集中了互联网的精英网站，包括Google、MySpace、Yahoo、Facebook等等，但是这些精英的个数却比较少。第二个区域则集中了大约60%的网站，但每个网站都不是很有名。第三个区域则是剩下的20%的网站。按照我们的算法，越靠近中心的网站在整个生态系统中的地位和作用越高。我们看到Google刚好就是在中心位置上，尽管它的流量不一定很高。我们还可以观察这张图动态演化的情况，发现有些网站例如MySpace、Yahoo明显地从中心往外围跑，而像YouTube这样的网站却明显地会从外面往里面跑。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>流网络与用户行为</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	采用我们的方法，我们可以将一个网站或一个软件或一个APP看作是一个占意流网络，用户使用就是不停的点击和输入的行为轨迹，把大量的用户轨迹合起来就是一个流网络，这个流网络可以告诉你很多信息。比如我们可以用它来刻画&ldquo;爽&rdquo;的体验，我们可以简单地把用户在流网络上的平均停留时间定义为&ldquo;爽&rdquo;的指标，路径越短，则越爽。举个例子，我们来比较微信和升级以前的支付宝，就发现微信支付比支付宝手续要简单，基本输入一个密码就行了。我比较喜欢微信，因为太简单了。不过这也挺让人担心的，因为上万元就这么几下按钮就没了。当然现在的支付宝已经跟微信一样了，也是操作非常简单，用起来很爽，而且据说支付宝可以根据用户使用方式来自动判断是否被盗用了。</p>
+<p>
+	&nbsp;</p>
+<p>
+	除此之外，我们还可以用流网络这种工具清晰地看到用户流在你的网站或应用中的分布情况。系统科学擅长类比思维，于是我们可以用许多研究河流网络、食物链网的方法来研究用户在数字空间中的流动情况。</p>
+<p>
+	&nbsp;</p>
+<p>
+	我们还可以用这套工具来刻画用户黏性。我跟吴令飞合作，对百度贴吧的30000个贴吧研究过交互黏性。我们只需要计算出每个小时内这个贴吧的独立访客UV，以及产生了多少个点击PV，就能计算出这个贴吧的交互黏性。分析发现，那些自组织的贴吧，例如LADYGAGA粉丝群如《三体》粉丝群的黏性程度都高；而非自组织的贴吧，比如某研究生导师组织的讨论贴吧的黏性就小。进一步分析，其实用户的流失模式，和黏性有非常好的相关性，也就是用户是在大流量帖子流失的多还是在小流量帖子流失的多是会影响贴吧的黏性的。这些具体的讨论我们会在读书会上详细讲解。</p>
+<p>
+	&nbsp;</p>
+<p style="text-align: center;">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408792.png" style="width: 418px; height: 188px;" /></p>
+<p align="center">
+	不同人类行为形成的占意流网络视图</p>
+<p>
+	&nbsp;</p>
+<p>
+	<img alt="" src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408811.png" style="width: 852px; height: 312px;" /></p>
+<p align="center">
+	Web1.0和2.0网站的占意流模式对比</p>
+<p>
+	利用这套注意力流网络的方法，我们还可以很好地揭示不同的人类行为模式。如上图所示，通过一定的可视化方法，我们发现不同的人类行为对应的图完全不同，例如对于WEB1.0和2.0的模式就非常不一样。进一步，我们可以用流网络对网络社区的发展做预测。</p>
+<p>
+	&nbsp;</p>
+<p>
+	最后，我非常希望能够将我们这套流网络的分析方法用于分析幸福心理学中所说的心流的现象。心流的概念是由心理学家Mihaly Csikszentmihalyi提出来的，他指出如果一个人注意力完全投注在某种活动上的时候，心流就会产生；心流产生时同时会有高度的兴奋及充实感。游戏是一种容易促发心流现象产生的活动。研究指出，促使心流产生的条件是：任务的难度和玩家的技能要相互匹配。我们是不是能够拿流网络的语言来刻画心流？我希望如此，我怀疑心流状态可能跟占意流的环状结构有关系。</p>
+<p>
+	&nbsp;</p>
+<p>
+	心流理论给我们的启发是占意流要具有一定的连贯性。我们要防止碎片化，这样才能享受更好的沉浸。这也许可以帮助大家更好地学习，好的学习方法不一定是使劲读书复习，而是要有意识地调整自己的心理状态，刻意地创造环境，让自己沉浸其中。传统教育用老师的时间硬性规定了你的时间，怎么可能产生心流呢？所以，教育一定要是个性化的。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>占意流的性质</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	下面，我们再来看看占意都有哪些有趣的性质。首先，占意具有相关性，也就是你同时注意到的事物会自然地发生联系，这就是为什么会存在品牌效应的原因。我们知道Google现在什么都搞，包括浏览器、社交网络、自动驾驶，等等，其实早已经不再是单纯的搜索引擎了。那为什么Google可以成功呢？因为它拥有Google这个品牌。本来，在一开始，我们的注意力是投射给Google搜索引擎的，但是慢慢地，因为每次搜索的时候我们都会看到Google的Logo，于是占意的相关性导致我们也会把注意力投射给Google这个符号本身，于是也就自然就喜欢Google Chrome，Google＋等服务。前几年曾经有人状告Google垄断，后来输了。为什么？因为Google虽然拓展了那么多业务，可是它收入的80%以上都是来自于广告，而不是那些业务，所以不能算是垄断。</p>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408834.png" style="width: 276px; height: 336px;" /></p>
+<p align="center">
+	水流的扩散性和创造性</p>
+<p>
+	&nbsp;</p>
+<p>
+	占意流还具有扩散和创造的作用。这就像是水流和河道的关系。水可以顺河道而流，也可以反过来冲刷河道，造就新的路径。同样的道理，用户的体验之流，可以迫使系统改造。现在的互联网公司都采用快速原型法进行开发，就是这个道理。为了推出一个产品，比如小米手机，他会快速地把它弄上线，目的就是为了引入大量用户的占意流，让这些流不断地冲刷这些软件和硬件搭建的结构，然后再根据反馈修改程序，这样的流与结构的耦合演化才是最优的。腾讯的微信就是一个很好地利用占意流的扩散和创造作用的例子。在一开始，微信就是一个普通的聊天工具，但是由于它用户体验做得好，于是吸引了大量的注意力流。慢慢地，腾讯在微信中加上了购物，加上了滴滴打车，现在还发展了大量的微信公共平台。有人说，微信的公共平台功能超级强大，已经成为了互联网新的操作系统，要把什么Android、iOS，以及各类APP都架空。为什么它可以做到这些？就是因为它拥有大量的占意流，并且这些占意流的扩散性导致它新长出来的功能仍然可以很好地发展。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>TAKE</strong>　<strong>HOME</strong>　<strong>MESSAGE</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	好了，关于注意力，我们到此已经可以告一段落了。从历史发展，再到新的占意理论，以及流网络，我们沥沥拉拉地讲了很多东西。那么，这些知识对于每个在座的听众有什么实用的价值呢？我们可以总结为以下几点：</p>
+<p>
+	1、首先，我们要树立注意力资源是神圣不可侵犯的意识。现在，打扰人不要钱，我们要刻意地把自己的注意力保护起来。</p>
+<p>
+	2、我们要有意识地优化注意力资源，把它更多地集中在你所感兴趣的东西上。未来一定是一个兴趣为王的时代。</p>
+<p>
+	3、同时你还要关注你自己的意愿，学会把注意力集中在单一的意愿上，这样才有可能促使意识显现。为什么很多人不成功，不是意愿不切实际，而是注意力投入不够，或者不够优化。</p>
+<div>
+	<p>
+		&nbsp;</p>
+</div>
+<h2>
+	众包与人类计算</h2>
+<p>
+	<strong>众包</strong><strong>1.0</strong></p>
+<p>
+	前面讲的大部分都是理论，下面我们就介绍一些实际应用的例子。我们已经提出了一个重要的观点是，注意力或者占意流是互联网世界的&ldquo;能量&rdquo;之源。真实世界的能量可以用来做功，从而为我们造福社会，那么注意力流是否也可以用来做功呢？答案是肯定的，这在互联网界叫做众包。通过互联网吸引、组织大量的闲置注意力资源，然后将它们用于一些实际的任务，这就是众包，即用注意力来&ldquo;做功&rdquo;。</p>
+<p>
+	&nbsp;</p>
+<p>
+	首先，我想强调一个观点，即玩就是生产，而不是消费。因为按照注意力的理论，玩需要玩家付出注意力，而注意力是有用的&ldquo;能量&rdquo;。为了证明这个观点，我引述一位叫做Edward Castronova的研究工作。他是一名经济学家，却对网络游戏中的经济现象产生了浓厚的兴趣，后来他计算了一个网络游戏EverQuest的GDP，并因此写了一篇著名的文章《关于虚拟世界经济的第一手资料》，挂在网上，引起了轰动。他所做的研究很简单，就是按照GDP核算法计算了当时著名的EverQuest游戏王国的GDP，结果发现，这个虚拟在线王国的GDP当时排名全球第77位，而出口额则排名第14位，甚至超过了当时的印度。他的核心发现是，每当虚拟角色升级一级，就可以在Ebay拍卖中多赚一些钱。然后，他进行了这样的核算：玩家需要大概上百小时才能让虚拟角色升级一级，而每时每刻虚拟在线的玩家数是数十万人，这样的话一年这些玩家就可以创造上亿美元的价值。这个家伙因为这样一个简单的计算而名声大噪，后来成为了研究虚拟在线世界经济、社会现象的鼻祖级人物。他写了不少书，但是大多数国内似乎还没有引进，我觉得这是很好的图书策划的机会。</p>
+<p>
+	&nbsp;</p>
+<p>
+	人们利用闲置的注意力资源可以完成各类众包任务。我们先说众包1.0，即直接让用户做事儿。比如我们熟悉的Linux软件，或者是维基百科，它们都是众包的典范。比较新的有最近刚出来的这个WAZE，它通过众包解决交通问题。每个用户都可以标记本地区发生了什么事情，包括交通堵塞或者其他事件，从而帮助其它的用户。</p>
+<p>
+	&nbsp;</p>
+<p>
+	最近，美国DARPA机构组织了一个非常有趣的众包实验：寻找9个散落在全美大陆上的红色气球，以验证互联网集结有效资源完成任务的给力程度。有多个团队采用众包的方式仅仅用了1天就找到了全部9个红气球的位置。这其中第一名是美国MIT的Pentland领导的团队，他们采用了一种层级化的方法完成了激励。他们的规则是，不仅仅要奖励那些最后找到红气球的人，而且还要奖励那些引荐这位找到红色气球的人的人，以及引荐这位引荐者的人&hellip;&hellip;。这样一种激励机制可以避免人们独吞奖金，不愿分享信息的现象。（观众：这不就是传销吗？）。的确很像传销，但是人家用到了正事儿上。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>人类计算：众包</strong><strong>2.0</strong></p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408866.png" style="width: 345px; height: 287px;" /></p>
+<p align="center">
+	reCAPTCHA界面示意</p>
+<p>
+	前面所举的这些例子都是传统的众包，即众包1.0。下面，我们来看看众包2.0的例子。美国CMU的Luis von Ahn 和我同岁，但人家现在已经是全球知名的学者了。他最大的贡献就是提出了所谓的人类计算（Human computation）的概念。一个展现人类计算的最好的例子就是这个叫做reCAPTCHA的项目。在2007年间，Google正在把大量的图书电子化。但是一个令人头疼的问题是，如果用计算机的文本识别（OCR）软件，识别的正确率仅仅能够达到80%左右。80%的正确率是什么概念？基本上你一眼看上去，就会发现满篇的错字。那么，怎么才能提高那20%的正确率呢？如果雇佣人来校对，需要耗费大量的财力。这个时候，Luis von Ahn突发奇想，他发现用户在登陆邮箱或进行网站注册的时候，需要识别电脑刻意生成的扭曲的字符以证明自己是一个人而不是机器。那么，反正用户总是要输入字符串，我让它多输入一串又有何妨？于是，在reCAPTCHA的显示框中，一串字符是计算机生成的，为了验证你是人而不是软件，而另外一串字符则是从Google扫描的电子书中无法识别的英文单词。用户要想通过这个页面，必须同时输入两个单词，就这样人力帮助计算机解决了字符识别的问题。最后的识别精准度竟然达到了99.1%。而且，通过reCAPTCHA，Google每天都会校对160本书。最后，Luis von Ahn总结道：&ldquo;浪费的人类计算能力可以被驾驭用来解决不能解决的问题。&rdquo;</p>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408885.png" style="width: 285px; height: 303px;" /></p>
+<p align="center">
+	VERBOSITY系统界面示意</p>
+<p>
+	&nbsp;</p>
+<p>
+	后来，Luis von Ahn还提出了其他的人类计算的例子。比如Verbosity就是一个利用玩家游戏的方式解决构建语义网络的问题。比如，我要建立一个笔记本电脑（LAPTOP）这个概念相关的语义网络。于是，我会让两个玩家玩一个游戏，这样使得他们在不知不觉中就会完成知识的输入。具体玩法是，计算机在玩家A的屏幕上打出LAPTOP这个词，并要求A用一些标准的语句描述LAPTOP，比如A会说它包含一个键盘。与此同时，在玩家B的电脑上，LAPTOP这个词不会出现，但却可以看到A输入的描述LAPTOP的那些词。于是B开始尽自己的最大努力猜玩家A看到的原始词是什么。最后，直到B猜出来那是LAPTOP，这一轮游戏结束，系统会根据时间的长短给两个玩家增加分数。于是在A和B共同娱乐的同时，系统收集了大量关于LAPTOP的语义知识。</p>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408906.png" style="width: 366px; height: 276px;" /></p>
+<p align="center">
+	MATCHIN系统界面示意</p>
+<p style="text-align: center;">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408923.png" style="width: 391px; height: 295px;" /></p>
+<p align="center">
+	MATCHIN游戏选出来的最美的图片</p>
+<p>
+	&nbsp;</p>
+<p>
+	另一个例子是MATCHIN，它也是利用玩家的游戏过程，最终给图像的美丽程度打分。游戏一开始，玩家A和B的屏幕上就会同时出现两张图，系统要求每个玩家都选出一个对手觉得更漂亮的图出来。为什么选对手觉得更美的图？而不是你认为更美的图？因为这样可以避免刻意捣乱行为。大家都听说过凯因斯选美的例子吧？这种选美比赛要求你选出那个所有人公认的最美小姐。如果比赛要求每个人选择自己认为最美的小姐，那么就有可能有些人作弊，但当要求是投选大家都认为美的人，就可能会让用户输入理性的答案。于是，当两个人在尽量短的时间内投票出了一致的结果后，游戏进入了下一轮。就这样，系统随机地从图片库中抽取两两的图片对让玩家做比较，从而给所有的图片打分排序。结果，用这种方法发现系统真的能找出非常美丽的图片，如上图所示。就这样，这个Matchin系统通过游戏的方式把人类内心的对美的感受揭示了出来。</p>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408944.png" style="width: 363px; height: 211px;" /></p>
+<p align="center">
+	ESP游戏界面</p>
+<p>
+	Luis还介绍了一个ESP游戏，也是两个人玩，两个人看到同样一张图片（上图），然后他们就一起输入一些单词描述这张图片，直到两个人输入的单词一模一样了为止。最后，玩家得到了娱乐，系统得到了图片的一堆标签。</p>
+<p>
+	&nbsp;</p>
+<p>
+	最后，让我们再看一个有趣的例子，这是一个叫做&ldquo;免费稻谷&rdquo;的问答类游戏。你登陆游戏后，系统就会让你回答一系列问题，从简单到复杂，难度一点点提高。同时，系统告诉你，你每回答200个问题，游戏就会自动给非洲难民捐献一粒稻谷。这是怎么做到的呢？原来系统会将游戏内的一些广告位卖给商家，商家的回报条件就是要为非洲难民捐献粮食。每天都会有大量的玩家在这里游戏，所以平均每天都会捐献出大概能养活7000人的稻谷。这是一个相当可观的数字啊。就这样，在这个平台下，免费稻谷游戏间接地实现了玩游戏、捐稻谷的目的。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<img alt="" src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408964.png" style="width: 941px; height: 555px;" /></p>
+<p align="center">
+	众包与人类计算模式的比较</p>
+<p>
+	&nbsp;</p>
+<p>
+	好，在举了这么多好玩的众包游戏之后，让我们来比较一下众包1.0和2.0（即人类计算）的区别。如上图所示，我们看到，众包1.0是直接的、赤裸裸地让玩家完成系统要完成的任务；而2.0则是间接的，通过游戏或其他活动包装后的任务。于是，玩家在享受游戏的同时，已经不知不觉地帮助计算机完成了计算，这就是众包2.0。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>众包＋</strong><strong>AI</strong><strong>＝众包</strong><strong>3.0</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	熟悉人工智能的朋友都清楚，最近两年由于Deep Learning技术的出现，使得人工智能有了跨越式的发展。前面提到的字符识别问题、图片加标签问题完全可以用人工智能程序解决掉了，而完全不用费事地组织人来解决。那么，是不是人类计算就完全没用了呢？</p>
+<p>
+	&nbsp;</p>
+<p>
+	我认为，完全不是这样。既然AI可以很好地完成了一些功能，那么我们就可以把人力用到其它的地方上去。真正的未来应该是让众包和AI更深入地结合。我觉得，这也许会创造出众包3.0。即，众包＋AI＝众包3.0。那么，众包应该怎样和AI相结合呢？我认为可能有三种不同的途径：</p>
+<p>
+	&nbsp;</p>
+<p>
+	1、用AI完成算力的传递（这个待会我将详细地介绍）；</p>
+<p>
+	2、让人工智能程序自动根据我们的要求设计、编写出一个好玩的游戏出来；</p>
+<p>
+	3、用众包的方式给人工智能程序反馈，得到训练样本。</p>
+<p>
+	&nbsp;</p>
+<p align="center">
+	<img src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442408984.png" style="width: 288px; height: 377px;" /></p>
+<p align="center">
+	PLAYPUMPS游戏示意图</p>
+<p>
+	&nbsp;</p>
+<p>
+	我们先来看第一种途径。在深入讨论之前，我们先来看一个有趣的项目：PLAYPUMPS。这是南非的Roundabout Outdoor公司为某小镇量身定做的一款好玩的游戏，如上图所示。大家看到，一群小孩正在玩一个旋转椅。但其实，这是一个水泵，人力会将地下水抽出来，然后运输到村子里，供人们使用。这是一个典型的人类计算的方式。当然这个例子传递的是水这个物质，而不是算力。</p>
+<p>
+	&nbsp;</p>
+<p>
+	那么，怎么发展众包3.0呢？假如我们把整个水的传递过程替换成一个经过训练的人工神经网络，它的作用是可以将人类游戏的模式映射成一种问题求解的模式，那么这整个系统就是众包3.0了。</p>
+<p align="center">
+	<img alt="" src="http://www.swarma.org/swarma/ckfinder/userfiles/images/1442409001.png" style="width: 689px; height: 309px;" /></p>
+<p align="center">
+	将员工特征映射为偶罗斯方块形状的神经网络</p>
+<p>
+	当然，目前尚不存在这样的众包3.0系统，但为了说明我的设想，我们不妨脑洞一个例子。这个例子就是利用俄罗斯方块来建设团队。我们知道，要搭建一个项目团队是很难的事情，因为我们需要根据不同人的特色，将它们有机地组合起来。我们看到，这样一个组合的过程仿佛是在玩俄罗斯方块。因为俄罗斯方块无非就是将不同形状的砖块拼接在一起形成一大块整齐的形状。那么，接下来，我们就来让AI大显身手吧。我们不妨去训练一个神经网络，神经网络的输入就是团队中各个人物的特征，网络的输出就是一个俄罗斯方块的形状。于是，经过反复地训练后，我们便可以把人映射成方块。这样，一个玩家玩俄罗斯方块，把不同的形状拼合在一起，就相当于是将不同人组合在一起而形成一个完整的团队了。就这样，玩家拼拼拼，一个团队就产生了&hellip;&hellip;</p>
+<p>
+	&nbsp;</p>
+<p>
+	当然，这仅仅是一个脑洞大开的例子，但却很好说明了我所设想的众包3.0。希望大家发挥聪明才智，能够开出更多的脑洞，找到一个正确地结合众包＋AI的例子出来。</p>
+<p>
+	&nbsp;</p>
+<p>
+	将众包与AI结合的第二种途径就是让机器自动根据要求设计游戏。我们知道，2015年机器学习界一个最重要的突破就是人们将深度学习网络和强化学习理论结合起来后设计出来一种神经网络，它可以自动学习打各种计算机游戏，从而成为高超的游戏玩家。当时在集智俱乐部的读书会上，我就在想，我们能不能反着做呢？就是让计算机自动编写游戏，让人来评价这个游戏好不好玩。我觉得这是完全有可能的，目前世界上也有一些团队在尝试了。更进一步，由于众包和人类计算中的游戏是有很强目的性的，它要解决实际的任务问题。但是，随着AI技术的发展，根据这些要求自动设计出游戏将不是不可能的。于是，人只需要把注意力投入进去，你不停地去玩，机器就会自动形成一个更加好玩的游戏，这是不是就离《黑客帝国》不远了？</p>
+<p>
+	&nbsp;</p>
+<p>
+	第三种结合众包与AI的方式不难想象得到。事实上，现在的&ldquo;彩云天气&rdquo;已经在实践了，他们用用户反馈的天气情况来训练神经网络，从而让天气预测更加准确。</p>
+<p>
+	&nbsp;</p>
+<p>
+	总结来看，所谓的众包、人类计算，以及众包3.0，其实都是巧妙地利用计算机技术将人类的注意力转化成有用而实际的计算过程。所以，我们（我、吴令飞、东方和尚）提出了注意力引擎的概念，并相信，在不远的将来，注意力引擎将会出现，就像工业时代的动力引擎，它会为互联网提供源源不断的动力。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>脑洞大开：游戏的世界</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	好，讲座的最后，让我们把脑洞再开大一些，让我们远眺未来世界将会是什么样子的。最近，由于宣传我们的新书《科学的极致&mdash;&mdash;漫谈人工智能》的原因，我讲了好几场AI的科普讲座。会后，大家提问最多的问题就是：是否以后AI会战胜人类？知乎上最近出现的那篇争论最多的文章也是这个论调。我很诧异大家为什么会经常提这个问题，我认为这个问题的是否并不重要，而我觉得提问本身是有问题的，为什么人和机器就一定是竞争的关系呢？我真是想不明白，为什么这两者就不能融合呢？我猜，大家已经被工业化思维洗脑了！似乎我们只能看到竞争、竞争、还是竞争。而我看到的未来则是人与机器的融合，而且一定是完美的融合，不是简单地将机器植入人体，或者反过来。我认为，这种融合可以很简单哪，这就是游戏。于是机器给人提供了无穷的可玩性，而人给机器赋予了无穷无尽的注意力动力。</p>
+<p>
+	&nbsp;</p>
+<p>
+	给大家推荐一本书，超棒，叫做《游戏改变世界》。原来，游戏作为一种特殊的元素完全不必局限在电脑世界里，而是可以深深植根在大千世界中，甚至可以用游戏去改变现实。作者用一系列被称为&ldquo;平行实境&rdquo;游戏的例子予以了强有力的说明：游戏正在改变我们的世界。比如，家务劳动是一件让人头疼不已的事儿。那么，这个《家务战争》游戏可以让你巧妙地爱上家务劳动。假如你和你的家人或舍友共享一个空间，那么你们就可以到《家务战争》网站上注册个账户。然后，你们每做一件家务，就会在这个网站上获得一定量的评分。两人相互评分、相互竞争。于是，家务劳动变成了好玩的娱乐活动。你们可以玩玩试试。</p>
+<p>
+	&nbsp;</p>
+<p>
+	再比如一个照顾老人的游戏叫做&ldquo;活力&rdquo;。它鼓励玩家跟老人聊天，并赋予了一个挑战性的任务：要在10分钟交谈时间内尽可能多地找到你们都经历过的事情，并把这些经历记录下来。系统最后还会根据这些经历自动生成一首诗。最终的结果是，年轻人获得了愉悦，老人们自此不再孤独。</p>
+<p>
+	&nbsp;</p>
+<p>
+	还有一个恐怖的游戏，叫做《墓地德州扑克》。在美国，有大块大块的墓地被闲置而无人问津。于是，这位作者就发明了一个游戏，号召大家到墓地里去玩。它要求玩家认真阅读每块墓碑上的死者生平和死亡时间，并根据时间的最后一个数字将墓碑虚拟成一张扑克牌，然后让玩家用这些墓碑来玩儿德州扑克游戏。还有一个要求是，必须两个玩家能够在身体可触及的范围内链接起来，这两个墓碑才能形成一副牌。就这样，巧妙的游戏使得墓地再次活跃起来了。并且，更多的人开始关注墓碑上的文字。</p>
+<p>
+	&nbsp;</p>
+<p>
+	反腐是全世界所有政府都会面临的一个艰巨任务。当政府将财政信息公开之后，却没有人愿意花精力审查这些票据。于是，英国的卫报就组织了这样一个众包游戏&ldquo;调查你议员的开支&rdquo;，他们号召玩家上网审查这些政府票据，并尽量找出奇怪的地方出来。网站会根据玩家的贡献而排名公布。没想到的是，这个游戏一发布，大量的玩家就趋之若鹜，最后居然真的发现了大量造假的票据。最终，有4名议员因此而被捕。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>穿越</strong><strong>2045</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	工业时代交换的是物质，物质随着大规模的工业生产反而会变得越来越不重要。于是，人类的注意力得以解放，而追逐更加丰富多彩的人生体验。所以，未来将是一个大规模交换体验的社会。《罗辑思维》中就曾举过一个有趣的例子：现在的儿童摄影怎么玩？不是儿童去照相馆拍照，而是摄影师直接进驻到你的家中。从早上第一缕阳光出现，就开始拍摄你家宝宝。这样，摄影师将拍摄变成了一次体验。而反过来，这位住家摄影师不花一分钱就周游了全国，因为他的客户为他免费地提供食宿服务，于是摄影师收获了旅游的体验。我们可以预见，这样一种体验交换的过程在未来将会大行其道。</p>
+<p>
+	&nbsp;</p>
+<p>
+	在未来，大规模的全身心、高效率的沉浸将会越来越多地、时时刻刻地发生。随着人们越来越认识到注意力的作用，随着越来越多的技术被用于优化人类注意力，这使得原本闲置、浪费的注意力资源可以被高效地组织起来。于是，全身心的沉浸将会更大面积的发生。到了那时候，&ldquo;黑客帝国&rdquo;就真的离我们不远了。</p>
+<p>
+	&nbsp;</p>
+<p>
+	可能，到了2045年，我们的语言会因为大规模高效率的沉浸而变得无用，于是语言消失，人们会更大尺度地交换注意力资源。这也许就是奇点到来时候的样子。我们知道，人类文明恰恰是因为语言的出现才出现，而到了奇点临近的时候，语言将消失，人类文明也将不复存在。或者换句话说，人类文明将完成彻头彻尾的跃迁，全球脑将全面觉醒。</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>参考文献</strong>：</p>
+<p>
+	&nbsp;</p>
+<p>
+	张雷：西方注意力经济学派研究，中国社会科学出版社，2009</p>
+<p>
+	Bing Liu:&nbsp; Web数据挖掘，清华大学出版社，2009</p>
+<p>
+	于洋：游戏数据分析的艺术，2015</p>
+<p>
+	P. Michelucci: Handbook of Human Computation, Springer 2013</p>
+<p>
+	Shi P et al. A Geometric Representation of Collective Attention Flows, PloS ONE, 2015, 10(9):e0136243</p>
+<p>
+	Wu et al.: The Metabolism and Growth of Web Forums; PLoS ONE, 2014, 9(8): e102646</p>
+<p align="left">
+	简&middot;麦戈尼格尔(Jane McGonigal)著, 闾佳 译：游戏改变世界，浙江人民出版社，2012</p>
+<p>
+	&nbsp;</p>
+      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

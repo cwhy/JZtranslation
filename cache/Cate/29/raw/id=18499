@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －脑与deep learning读书会最后一次. 脑与临界态</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">脑与deep learning读书会最后一次. 脑与临界态</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2014-01-03 02:33:04 由 <a href="gerenshouye.php?userid=2216" target="_blank">jake</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<div style="word-break: break-word; font-size: 14px; line-height: 25px; font-family: arial, sans-serif;"><span style="word-break: break-word; font-family: Arial, Helvetica, sans-serif; font-size: 13px;"><b style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 14.44444465637207px; letter-spacing: 1.1111111640930176px; line-height: 18.99305534362793px; word-break: break-word;"><img src="http://www.swarmagents.cn/files/201306050049_deep_thinkers-1p8fp2c.jpg" style="vertical-align: middle; border-style: none; border-width: 0px; font-family: Arial; font-size: 10.5pt;"></b></span></div><div style="word-break: break-word; font-size: 14px; line-height: 25px; font-family: arial, sans-serif;"><span style="word-break: break-word; font-family: Arial, Helvetica, sans-serif; font-size: 13px;">这是咱们脑与deep learning读书会跨年的一次也是最后一次啦。</span><span style="word-break: break-word; font-family: Arial, Helvetica, sans-serif; font-size: 13px;">欢迎大家参加！</span><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;"><br style="word-break: break-word;"></b></span></div><div style="word-break: break-word; font-size: 14px; line-height: 25px; font-family: arial, sans-serif;"><span style="word-break: break-word; font-family: Arial, Helvetica, sans-serif; font-size: 13px;"><br style="word-break: break-word;"></span></div><div style="word-break: break-word; font-size: 14px; line-height: 25px; font-family: arial, sans-serif;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;">时间：</b>2014年1</span><span style="word-break: break-word; line-height: 19px; font-family: Helvetica, Arial, sans-serif;"><font color="#111111" style="word-break: break-word;">月5日（周日）下午2点半</font></span><br style="word-break: break-word;"></div><div style="word-break: break-word; line-height: 25px; font-family: arial, sans-serif; font-size: 13px;"><div class="gmail_quote" style="word-break: break-word;"><div dir="ltr" style="word-break: break-word;"><div style="word-break: break-word; font-size: 14px; margin: 0.4em 0px 0.5em; line-height: 1.5em;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;">地点</b>：</span><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;">海淀区学清路768创意产业园B座蕴味咖啡</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; font-size: 14px; line-height: 1.5em;"><br style="word-break: break-word;"></b></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; font-size: 14px; line-height: 1.5em;">题目</b><font color="#222222" face="arial, sans-serif" style="word-break: break-word; font-size: 14px;"><span style="word-break: break-word; line-height: 1.5em;">：脑与临界态</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; font-size: 14px;"><br style="word-break: break-word;"></span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; font-size: 14px; line-height: 1.5em;">主讲人：</b><span style="word-break: break-word; font-size: 14px; line-height: 1.5em;">吴令飞、肖达</span></div><div style="word-break: break-word; font-size: 14px; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; font-family: Helvetica, Arial, &prime;Droid Sans&prime;, sans-serif; line-height: 19.9844px;"><br style="word-break: break-word;"></b></div><div style="word-break: break-word; font-size: 14px; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; font-family: Helvetica, Arial, &prime;Droid Sans&prime;, sans-serif; line-height: 19.9844px;">提纲：</b><br style="word-break: break-word;"></div><span style="word-break: break-word; font-family: Helvetica, Arial, &prime;Droid Sans&prime;, sans-serif; font-size: 14px; line-height: 19.9844px;">1.&nbsp;</span><font face="Helvetica, Arial, Droid Sans, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; font-size: 14px; line-height: 19.984375px;">大脑网络临界态的实证分析</span></font></div><div dir="ltr" style="word-break: break-word;"><font face="Helvetica, Arial, Droid Sans, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; font-size: 14px; line-height: 19.984375px;">2. 临界态意味着什么？（开放讨论）</span></font></div><div dir="ltr" style="word-break: break-word;"><span style="word-break: break-word; font-size: 14px;">3. 临界态对深度学习的启发和应用（个人探索介绍）</span><br style="word-break: break-word;"></div><div dir="ltr" style="word-break: break-word; font-size: 14px;"><br style="word-break: break-word;"><b style="word-break: break-word;"><br style="word-break: break-word;"></b></div><div dir="ltr" style="word-break: break-word; font-size: 14px;"><b style="word-break: break-word;">参考文献：</b><span style="word-break: break-word; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 17.27272605895996px;">　　</span></div><div dir="ltr" style="word-break: break-word; font-size: 14px;"><span style="word-break: break-word; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 17.27272605895996px;">【NB】【SP】Beggs J. (2007) The criticality hypothesis: how local cortical networks might optimize information processing. Proceedings of the Royal Society A.&nbsp;</span><br style="word-break: break-word; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 17.27272605895996px;"><span style="word-break: break-word; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 17.27272605895996px;">【NB】【SP】Shew, WL, Plenz, D 2013 The functional benefits of criticality in the cortex. Neuroscientist 19(1):88-100.&nbsp;</span><br style="word-break: break-word;"></div><div dir="ltr" style="word-break: break-word; font-size: 14px;"><span style="word-break: break-word; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 17.27272605895996px;">【SP】Mora T &amp; Bialek W. Are biological systems poised at criticality? J Stat Phys 144, 268-302 (2011); arXiv:1012.2242 [q–bio.QM] (2010).&nbsp;</span></div></div></div> <br><br>      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

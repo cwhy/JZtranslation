@@ -1,0 +1,10 @@
+{
+  "ID": "17765",
+  "category_name": "计算机、大脑、自然，谁更聪明？—— ——探索复杂神经网络背后的简单原理",
+  "content": "../Chinese/17765.md",
+  "author": "jake",
+  "category_id": "52",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=17765",
+  "path": "../Chinese/17765",
+  "title": "计算机、大脑、自然，谁更聪明？—— ——探索复杂神经网络背后的简单原理"
+}

@@ -1,0 +1,111 @@
+1 集体注意力与人类计算读书会
+http://www.swarma.org/swarma/huodong_neirong.php?id=18702
+
+6高级认知相关的另类深度学习III
+http://www.swarma.org/swarma/huodong_neirong.php?id=18675
+
+8高级认知相关的另类深度学习II - 序列学习模型RNN/LSTM及其应用
+http://www.swarma.org/swarma/huodong_neirong.php?id=18670
+
+9读书会总体介绍 & DeepMind‘s DQN for playing Atari games
+http://www.swarma.org/swarma/huodong_neirong.php?id=18665
+
+10高级认知相关的另类深度学习
+http://www.swarma.org/swarma/huodong_neirong.php?id=18664
+
+13集智计算读书会——南京
+http://www.swarma.org/swarma/huodong_neirong.php?id=18627
+
+20瓦克星计划工作坊（第一期）
+http://www.swarma.org/swarma/huodong_neirong.php?id=18586
+http://www.swarma.org/swarma/huodong_neirong.php?id=18420
+
+2互联网的动力引擎 
+http://www.swarma.org/swarma/huodong_neirong.php?id=18701
+
+3开源科学与人工智能
+http://www.swarma.org/swarma/huodong_neirong.php?id=18695
+
+11重新构想：消费者及消费意愿 ——互联网到底改变了什么
+http://www.swarma.org/swarma/huodong_neirong.php?id=18659
+
+21 AI天气预报员
+http://www.swarma.org/swarma/huodong_neirong.php?id=18574
+
+23最后一次计算理论读书会
+http://www.swarma.org/swarma/huodong_neirong.php?id=18565
+
+25可计算性理论研讨会(4)：不可解问题与希尔伯特第十问题
+http://www.swarma.org/swarma/huodong_neirong.php?id=18554
+
+26 可计算性理论研讨班(3)——邱奇－图灵论题，函数式语言的可计算性
+http://www.swarma.org/swarma/huodong_neirong.php?id=18545
+
+27可计算性研讨班(2)---可计算性的基本理论 元编程、自应用、编译器生成
+http://www.swarma.org/swarma/huodong_neirong.php?id=18536
+
+28可计算性理论研讨班
+http://www.swarma.org/swarma/huodong_neirong.php?id=18533
+
+29脑与deep learning读书会最后一次. 脑与临界态
+http://www.swarma.org/swarma/huodong_neirong.php?id=18499
+
+30【脑与深度学习读书会】 睡眠与记忆
+http://www.swarma.org/swarma/huodong_neirong.php?id=18496
+
+38归纳与智能漫谈：一个算法究竟能做多少事？
+http://www.swarma.org/swarma/huodong_neirong.php?id=18430
+
+39 自然语言处理读书会（4次）
+http://www.swarma.org/swarma/huodong_neirong.php?id=18429
+http://www.swarma.org/swarma/huodong_neirong.php?id=18425
+http://www.swarma.org/swarma/huodong_neirong.php?id=18414
+http://www.swarma.org/swarma/huodong_neirong.php?id=18409
+
+40一个社会科学家眼中的“计算社会科学”
+http://www.swarma.org/swarma/huodong_neirong.php?id=18426
+
+42计算社会科学总论：案例、工具与理论的课程简介
+http://www.swarma.org/swarma/huodong_neirong.php?id=18395
+
+45语义网络讲座
+http://www.swarma.org/swarma/huodong_neirong.php?id=18341
+
+47统计学习读书会（9次）
+http://www.swarma.org/swarma/huodong_neirong.php?id=18032
+http://www.swarma.org/swarma/huodong_neirong.php?id=17923
+http://www.swarma.org/swarma/huodong_neirong.php?id=17914
+http://www.swarma.org/swarma/huodong_neirong.php?id=17870
+http://www.swarma.org/swarma/huodong_neirong.php?id=17793
+http://www.swarma.org/swarma/huodong_neirong.php?id=17784
+http://www.swarma.org/swarma/huodong_neirong.php?id=17766
+http://www.swarma.org/swarma/huodong_neirong.php?id=17733
+
+49推荐与个性化：互联网的未来？
+http://www.swarma.org/swarma/huodong_neirong.php?id=17924
+
+52计算机、大脑、自然，谁更聪明？—— ——探索复杂神经网络背后的简单原理
+http://www.swarma.org/swarma/huodong_neirong.php?id=17765
+
+54一公斤电子
+http://www.swarma.org/swarma/huodong_neirong.php?id=17506
+
+57君子动口也动手 -- 人机交互的近未来与“浅”人工智能的应用
+http://www.swarma.org/swarma/huodong_neirong.php?id=17331
+
+41《信息论基础》读书会（6次）
+http://www.swarma.org/swarma/huodong_neirong.php?id=18398
+http://www.swarma.org/swarma/huodong_neirong.php?id=18389
+http://www.swarma.org/swarma/huodong_neirong.php?id=18381
+http://www.swarma.org/swarma/huodong_neirong.php?id=18375
+http://www.swarma.org/swarma/huodong_neirong.php?id=18368
+http://www.swarma.org/swarma/huodong_neirong.php?id=18359
+
+35探索脑与Deep learning （8次，缺一次记录）
+http://www.swarma.org/swarma/huodong_neirong.php?id=18480
+http://www.swarma.org/swarma/huodong_neirong.php?id=18476
+http://www.swarma.org/swarma/huodong_neirong.php?id=18465
+http://www.swarma.org/swarma/huodong_neirong.php?id=18462
+http://www.swarma.org/swarma/huodong_neirong.php?id=18454
+http://www.swarma.org/swarma/huodong_neirong.php?id=18453
+http://www.swarma.org/swarma/huodong_neirong.php?id=18435

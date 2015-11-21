@@ -1,0 +1,10 @@
+{
+  "ID": "18476",
+  "category_name": "探索脑与Deep learning （8次，缺一次记录）",
+  "content": "../Chinese/18476.md",
+  "author": "king",
+  "category_id": "35",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18476",
+  "path": "../Chinese/18476",
+  "title": "脑与deep learning读书会7. Visual area V4 & Deep learning科普和实战"
+}

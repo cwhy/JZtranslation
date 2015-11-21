@@ -1,0 +1,10 @@
+{
+  "ID": "18480",
+  "category_name": "探索脑与Deep learning （8次，缺一次记录）",
+  "content": "../Chinese/18480.md",
+  "author": "jake",
+  "category_id": "35",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18480",
+  "path": "../Chinese/18480",
+  "title": "探索脑与Deep learning 8.IT, object & face recognition"
+}

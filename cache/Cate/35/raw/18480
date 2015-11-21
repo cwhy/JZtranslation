@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －探索脑与Deep learning 8.IT, object & face recognition</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">探索脑与Deep learning 8.IT, object & face recognition</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2013-10-21 12:29:53 由 <a href="gerenshouye.php?userid=2216" target="_blank">jake</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<p><div style="word-break: break-word; line-height: 25px; font-family: arial, sans-serif;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;"><br></b></span></div><div style="color: rgb(34, 34, 34); font-family: Simsun; letter-spacing: 1px; line-height: 20px; font-size: 10.5pt;"><span style="line-height: 19px; font-family: Helvetica, Arial, sans-serif; color: rgb(17, 17, 17);"><b><b><b style="font-size: 12px;"><img src="http://www.swarmagents.cn/files/201306050049_deep_thinkers-1p8fp2c.jpg" style="vertical-align: middle; border: 0px;"></b></b></b></span></div><div style="word-break: break-word; line-height: 25px; font-family: arial, sans-serif;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;">时间：</b>2013年10</span><span style="word-break: break-word; line-height: 19px; font-family: Helvetica, Arial, sans-serif;"><font color="#111111" style="word-break: break-word;">月20日（周日）<b style="word-break: break-word;">&nbsp;</b></font><font color="#ff0000" style="word-break: break-word;"><b style="word-break: break-word;">上午10点</b></font></span><br style="word-break: break-word;"></div><div style="word-break: break-word; font-family: arial, verdana, sans-serif; line-height: 25px;"><div class="gmail_quote" style="word-break: break-word;"><div dir="ltr" style="word-break: break-word;"><div style="word-break: break-word; font-family: arial, sans-serif; margin: 0.4em 0px 0.5em; line-height: 1.5em;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;">地点</b>：</span><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;">海淀区学清路768创意产业园B座蕴味咖啡（公交“石板房”站，问路电话61199210）</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; font-family: arial, sans-serif; line-height: 1.5em;">题目</b><font color="#222222" face="arial, sans-serif" style="word-break: break-word; font-family: arial, sans-serif;"><span style="word-break: break-word; line-height: 1.5em;">：</span></font><font face="arial, sans-serif" style="word-break: break-word;">IT, object &amp; face recognition</font></div><div style="word-break: break-word; font-family: arial, sans-serif; font-size: 13px; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; font-size: 14px;"><br style="word-break: break-word;"></span></font></div><div style="word-break: break-word; font-family: arial, sans-serif; font-size: 13px; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; font-size: 14px; line-height: 1.5em;">主讲人：</b><span style="word-break: break-word; font-size: 14px; line-height: 1.5em;">王长明</span><span style="word-break: break-word; font-size: 14px; line-height: 19.5px;">，北京师范大学脑与认知科学研究院，博士后</span></div><div style="word-break: break-word; font-family: arial, sans-serif; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; line-height: 19.5px;"><br style="word-break: break-word;"></span></div><div style="word-break: break-word; font-family: arial, sans-serif; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; line-height: 19.5px;"><b style="word-break: break-word;">提纲：</b>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">&nbsp; &nbsp; &nbsp; &nbsp; IT区（Inferior temporal cortex</span></font><span style="word-break: break-word; line-height: 19.5px; font-family: arial, sans-serif;">）的结构特点和功能&nbsp;</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; line-height: 19.5px; font-family: arial, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; 客体识别的神经机制</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; line-height: 19.5px; font-family: arial, sans-serif;">&nbsp; &nbsp; &nbsp; &nbsp; 面孔识别的特异性及其对认知计算的启示</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">&nbsp; &nbsp; &nbsp; &nbsp;</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; line-height: 19.5px; font-family: arial, sans-serif;">参考文献：</b><br style="word-break: break-word;"></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; line-height: 19.5px; font-family: arial, sans-serif;">　　【NB】Charles G. Gross (2008) Inferior temporal cortex. Scholarpedia, 3(12):7294.<a href="http://www.scholarpedia.org/article/Inferior_temporal_cortex" target="_blank" style="word-break: break-word;">http://www.scholarpedia.org/article/Inferior_temporal_cortex</a>&nbsp;</span><br style="word-break: break-word;"></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">　　【NB】Tanaka, K. (1996). Inferotemporal cortex and object vision. Annual Review of Neuroscience, 19, 109–139.&nbsp;</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">　　【NB】【CM】Tsao DY, Livingstone, MS. (2008) Mechanisms for face perception. Annual Review of Neuroscience, 31: 411-438.&nbsp;</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">　　【NB】【CM】Tsao D.Y., Cadieu C. and Livingstone M. (2010) Object Recognition: Physiological and Computational Insights. Chapter 24 in Primate Neuroethology. Edited by M. Platt and A. Ghazanfar. Oxford University Press.&nbsp;</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;James V. Haxby, Elizabeth A. Hoffman and M. Ida Gobbini. &nbsp;The distributed human neural system for face perception, Trends in Cognitive Science 2000.</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chris Eliasmith and Charles H. Anderson. Neural Engineering Computation, Representation, and Dynamics in Neurobiological Systems.</span></font></div></div></div></div></p>      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

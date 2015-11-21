@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －重新构想：消费者及消费意愿 ——互联网到底改变了什么</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">重新构想：消费者及消费意愿 ——互联网到底改变了什么</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2015-03-30 05:21:24 由 <a href="gerenshouye.php?userid=2497" target="_blank">king</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<p>
+	<img id="poster_img" itemprop="image" src="http://www.swarma.org/files/201503310511_4fb1aaa10b4c0bf.jpg" width="400" /></p>
+<p>
+	<strong>时间：</strong>&nbsp;<span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19.4400005340576px;">04月12日 周日 15:00-17:30</span></p>
+<p>
+	<strong>地点：</strong>&nbsp;<span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19.4400005340576px;">北京&nbsp;</span><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19.4400005340576px;">海淀区&nbsp;</span><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19.4400005340576px;">学清路768创意产业园，B座东门头，蕴味咖啡秘密花园餐厅</span></p>
+<p>
+	<strong>视频：</strong><a href="http://v.youku.com/v_show/id_XOTU0NzMzMTMy.html?from=s1.8-1-1.2">视频1</a></p>
+<h2 style="margin: 24px 0px 8px; padding: 0px; font-size: 15px; font-weight: normal; font-stretch: normal; font-family: Arial, Helvetica, sans-serif; color: rgb(0, 119, 34); line-height: 1.2;">
+	活动详情</h2>
+<div class="wr" id="edesc_f" style="margin: 0px; padding: 0px; table-layout: fixed; word-wrap: break-word; width: 590px; overflow: hidden; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19.4400005340576px;">
+	互联网无疑早已经改变了我们的日常生活。随着政府提出关于互联网+的理念更使得互联网重新成为了人们关注的焦点。然而，互联网技术的突飞猛进地发展必然离不开人。当我们将传统意义上的消费者互联网结合到一起，会碰撞出怎样的思想火花呢？&nbsp;<br />
+	<br />
+	活动内容：&nbsp;<br />
+	1、OTT(OTT 是&ldquo;Over The Top&rdquo;的缩写，是指通过互联网向用户提供各种应用服务)触动了什么？传统行业面临的互联网冲击。&nbsp;<br />
+	两个问题：什么是生意？什么是生意经？&nbsp;<br />
+	2、案例分享：通过若干不同行业的移动营销APP案例，给大家展示最近几年移动营销领域新的探索&nbsp;<br />
+	3、重新构想：互联网到底改变了什么？&nbsp;<br />
+	生产方式／消费方式／组织方式的转变；消费者的转变；认识消费达人&nbsp;<br />
+	传统营销&ldquo;漏斗模型&rdquo;的失效；如何衡量价值？&nbsp;<br />
+	打造你的数据引擎；形成你的数据闭环；建构你的数据生态&nbsp;<br />
+	4、下一波：认知科学为何如此重要？（理解消费者和消费意愿的新坐标）&nbsp;<br />
+	大脑计划意味着什么&nbsp;<br />
+	消费意愿：从认知科学、脑科学的最新成果，能获得什么启示&nbsp;<br />
+	<br />
+	主讲人简介&mdash;&mdash;&nbsp;<br />
+	段永朝，财讯传媒集团（SEEC）首席战略官。中国计算机学会高级会员。数字论坛创始成员。中国信息社会50人论坛成员。杭州师范大学阿里巴巴商学院特聘教授。&nbsp;<br />
+	<br />
+	主要著作：&nbsp;<br />
+	<br />
+	《互联网：碎片化生存》，2009年10月中信出版社出版&nbsp;<br />
+	<br />
+	《新物种起源：互联网的思想基石》（合著），2012年11月由商务印书馆出版&nbsp;<br />
+	<br />
+	《互联网思想十讲&mdash;&mdash;北大讲义》，2014年11月，由商务印书馆出版。</div>
+<p>
+	&nbsp;</p>
+      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

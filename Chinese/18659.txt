@@ -1,0 +1,10 @@
+{
+  "ID": "18659",
+  "category_name": "重新构想：消费者及消费意愿 ——互联网到底改变了什么",
+  "content": "../Chinese/18659.md",
+  "author": "king",
+  "category_id": "11",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18659",
+  "path": "../Chinese/18659",
+  "title": "重新构想：消费者及消费意愿 ——互联网到底改变了什么"
+}

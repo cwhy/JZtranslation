@@ -1,0 +1,10 @@
+{
+  "ID": "18409",
+  "category_name": "自然语言处理读书会（4次）",
+  "content": "../Chinese/18409.md",
+  "author": "jake",
+  "category_id": "39",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18409",
+  "path": "../Chinese/18409",
+  "title": "自然语言处理读书会"
+}

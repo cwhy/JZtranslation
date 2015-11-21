@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －脑与deep learning读书会4. Learning transformations(invariance)</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">脑与deep learning读书会4. Learning transformations(invariance)</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2013-08-11 02:32:23 由 <a href="gerenshouye.php?userid=2497" target="_blank">king</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<div style="word-break: break-word; font-family: arial, verdana, sans-serif; line-height: 25px;"><div class="gmail_quote" style="word-break: break-word;"><div dir="ltr" style="word-break: break-word;"><div style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; margin: 0.4em 0px 0.5em; line-height: 1.5em;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;"><img src="http://www.swarmagents.cn/files/201306050049_deep_thinkers-1p8fp2c.jpg"></b></span></div><div style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; margin: 0.4em 0px 0.5em; line-height: 1.5em;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;"><br></b></span></div><div style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; margin: 0.4em 0px 0.5em; line-height: 1.5em;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;">时间：</b>2013年8</span><span style="word-break: break-word; line-height: 19px; font-family: Helvetica, Arial, sans-serif;"><font color="#111111" style="word-break: break-word;">月11日（周日） 下午2点半</font></span><br style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><b style="word-break: break-word;">地点</b>：</span><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;">海淀区学清路768创意产业园B座蕴味咖啡（公交“石板房”站，问路电话61199210）</span></div><div style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; margin: 0.4em 0px 0.5em; line-height: 1.5em;"><span style="word-break: break-word; line-height: 19px; color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif;"><br style="word-break: break-word;"></span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; line-height: 1.5em;">题目</b><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 1.5em;">：</span></font><font color="#222222" style="word-break: break-word;">Learning transformations(invariance)</font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><b style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; line-height: 1.5em;">主讲人：</b><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;"><b style="word-break: break-word;">张巍，</b></span></font><span style="word-break: break-word; line-height: 19.5px; color: rgb(34, 34, 34); font-family: arial, sans-serif;">中国科学院软件所博士；</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; line-height: 19.5px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;"><b style="word-break: break-word;">戴玮</b>，</span></font><span style="word-break: break-word; line-height: 19.5px; color: rgb(34, 34, 34); font-family: arial, sans-serif;">中国科学院自动化所博士。</span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;">张巍讲义下载：<a href="http://vdisk.weibo.com/s/u4Vws15JL1s_7" target="_blank" style="word-break: break-word;">http://vdisk.weibo.com/s/u4Vws15JL1s_7</a><div style="word-break: break-word;">戴玮讲义下载：<a href="http://vdisk.weibo.com/s/u4Vws15JL1t73" target="_blank" style="word-break: break-word;">http://vdisk.weibo.com/s/u4Vws15JL1t73</a></div><div style="word-break: break-word;"><br></div><p><strong>录音：</strong><a href="http://www.duobei.com/course/8470463055" target="_blank" style="font-size: 10.5pt; word-break: break-word;">http://www.duobei.com/course/8470463055</a></p></div></div><div style="word-break: break-word; color: rgb(34, 34, 34); font-family: arial, sans-serif; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; line-height: 19.5px;"><b style="word-break: break-word;">提纲：</b></span><span style="word-break: break-word; font-family: verdana;">&nbsp;</span><p></p></div></div></div><div style="word-break: break-word; font-family: arial, verdana, sans-serif; line-height: 25px;"><div style="word-break: break-word;"><font style="word-break: break-word;"><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 21pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">l&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">What′s&nbsp;invariance?&nbsp;</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 21pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">l&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">How&nbsp;to&nbsp;learn&nbsp;invariance?</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 42pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">n&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Traditional&nbsp;methods</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 63pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">u&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">T</span><span style="word-break: break-word; font-family: 宋体;">angent&nbsp;propagation</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 63pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">u&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Invariant&nbsp;kernels</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 42pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">n&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Extracting&nbsp;invariant&nbsp;features.</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 63pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">u&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">H</span><span style="word-break: break-word; font-family: 宋体;">and-crafted&nbsp;features</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 63pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">u&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Learned&nbsp;features</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 63pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">u&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Combine&nbsp;hand-crafted&nbsp;and&nbsp;learned&nbsp;features</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 21pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">l&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">How&nbsp;to&nbsp;measure&nbsp;invariance?</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 42pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">n&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Grating&nbsp;test</span><span style="word-break: break-word; font-family: 宋体;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 42pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">n&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Natural&nbsp;video&nbsp;test</span><span style="word-break: break-word; font-family: ′′Times New Roman′′;"><u style="word-break: break-word;"></u><u style="word-break: break-word;"></u></span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 21pt;"><font color="#000000" style="word-break: break-word;"><span style="word-break: break-word; font-family: Wingdings;">l&nbsp;</span><span style="word-break: break-word; font-family: 宋体;">Invariances&nbsp;in&nbsp;face&nbsp;recognition</span></font></p><p style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana; margin-top: 0pt; margin-bottom: 0pt; margin-left: 21pt;"><br style="word-break: break-word;"></p><p style="word-break: break-word; margin-top: 0pt; margin-bottom: 0pt; margin-left: 21pt;"><br style="word-break: break-word;"></p></font><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; line-height: 19.5px; color: rgb(34, 34, 34); font-family: arial, sans-serif;"><b style="word-break: break-word;">参考文献：</b></span></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">Aapo Hyvarinen, Yan Karklin</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">【CM】Hyvarinen, A. and Hoyer, P. (2001). A two-layer sparse coding model learns simple and complex cell receptive fields and topography from natural images. Vision Research, 41(18):2413–2423.</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">【CM】Karklin, Y., &amp; Lewicki, M. S. (2009). Emergence of complex cell properties by learning to generalize in natural scenes. Nature, 457(7225), 83-85.</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">【CM】Adelson E.H. and Bergen J.R. (1985) Spatiotemporal energy models for the perception of motion. Journal Opt. Soc. Am.</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">【ML】Ian J. Goodfellow, Quoc V. Le, Andrew M. Saxe, Honglak Lee, and Andrew Y. Ng. (2009) Measuring invariances in deep networks. Advances in Neural Information Processing Systems (NIPS).</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><font color="#222222" face="arial, sans-serif" style="word-break: break-word;"><span style="word-break: break-word; line-height: 19.5px;">补充</span></font></div><div style="word-break: break-word; margin: 0.4em 0px 0.5em;"><span style="word-break: break-word; color: rgb(34, 34, 34); line-height: 19.5px; font-family: arial, sans-serif;">【ML】Q.V. Le, et, al. Building high-level features using large scale unsupervised learning. ICML, 2012.</span><span style="word-break: break-word; color: rgb(34, 34, 34); font-family: verdana;">&nbsp;</span></div></div></div></div>      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

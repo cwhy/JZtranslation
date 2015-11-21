@@ -1,0 +1,10 @@
+{
+  "ID": "18627",
+  "category_name": "集智计算读书会——南京",
+  "content": "../Chinese/18627.md",
+  "author": "jake",
+  "category_id": "13",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18627",
+  "path": "../Chinese/18627",
+  "title": "集智计算读书会——南京"
+}

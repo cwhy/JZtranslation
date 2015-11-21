@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －一个社会科学家眼中的“计算社会科学”</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">一个社会科学家眼中的“计算社会科学”</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2013-05-05 13:27:03 由 <a href="gerenshouye.php?userid=2497" target="_blank">king</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<div style="TEXT-ALIGN: center"><strong><font face="arial, sans-serif"><span style="FONT-SIZE: 14px">一个社会科学家眼中的“计算社会科学”</span></font></strong></div>
+<div style="TEXT-ALIGN: center"><strong><font face="arial, sans-serif"><span style="FONT-SIZE: 14px"></span></font></strong>&nbsp;</div>
+<div style="TEXT-ALIGN: center" align="left"><strong><font face="arial, sans-serif"><span style="FONT-SIZE: 14px">
+<div align="center"><a href="download.php?id=622" target="_blank"><img border="0" src="http://www.swarmagents.cn/files/201305051326_Picture-24.png"></a></div>
+<div></div></span></font></strong></div>
+<p><strong><font face="arial, sans-serif"><span style="FONT-SIZE: 14px"></span></font></strong>&nbsp;</p><strong><font face="arial, sans-serif"><span style="FONT-SIZE: 14px">
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px">时间：2013年5月12日 15:00-17:00</div>
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px"><br></div>
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px"><font face="arial, sans-serif">地点：</font><span style="LINE-HEIGHT: 21px; FONT-FAMILY: Helvetica,Arial,sans-serif; COLOR: rgb(17,17,17)">蕴味咖啡，</span><span style="LINE-HEIGHT: 21px; FONT-FAMILY: Helvetica,Arial,sans-serif; COLOR: rgb(17,17,17)">海淀区学清路768创意产业园（圣熙8号对面）内。<a href="http://www.douban.com/photos/album/92319672/" target="_blank">具体路线指南</a></span></div><div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px"><br></div><p><strong>视频：</strong><a href="http://v.youku.com/v_show/id_XNTYzMTE2Njky.html" style="font-family: Arial; font-size: 10.5pt;">http://v.youku.com/v_show/id_XNTYzMTE2Njky.html</a>,<a href="http://v.youku.com/v_show/id_XNTYzMTE2Njky.html" style="font-family: Arial; font-size: 10.5pt;">http://v.youku.com/v_show/id_XNTYzMTE2Njky.html</a></p><strong>
+<div style="TEXT-ALIGN: center"><br></div></strong>
+<div><strong><br></strong></div>
+<div><strong><br></strong></div>
+<div>中文简介：</div>
+<div><br></div>
+<div>计算社会科学这个领域在过去的几年中，因着互联网技术的发展和学科交融，迅速崛起。它提倡使用计算机来抓取和处理有关人类行为的大规模数据集，并使用网络分析等技术来处理这些数据，以期获得对人类的社会、经济和政治行为的理解。在本讲座中，主讲人将会介绍以下内容：</div>
+<div><br></div>
+<div>1. 主讲人自己使用社会媒体数据对人类个体行为进行的研究；</div>
+<div>2. 计算社会科学在澳洲国立的大学的发展；</div>
+<div>3. 计算社会科学对传统社会科学带来的机遇与挑战。</div>
+<div>
+<p><span lang="EN-AU">英文简介：Computational Social Science is an emerging field involving the application of network science and computational approaches to the analysis of large-scale datasets collected from the Internet, with the goal of providing new insights into social, economic and political behaviour. In this talk, I discuss the opportunities and challenges associated with computational social science, drawing on nearly 25 years experience as an empirical social scientist (the last 10+ years in the area of network science and web science). I will provide some examples of my work on using social media data to study individual behaviour in information networks, and will outline some activities in computational social science at the Australian National University.</span></p>
+<div class="gmail_quote">
+<div dir="ltr">
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px"><br></div>
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px">主讲人：<a href="https://researchers.anu.edu.au/researchers/ackland-rj" target="_blank">Robert Ackland</a>，澳洲国立大学人口与社会学研究所副教授。</div>
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px"><br></div>
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px"><span style="FONT-FAMILY: ′Times New Roman′,serif; FONT-SIZE: 12pt" lang="EN-AU">Robert Ackland is an Associate Professor in the Australian Demographic and Social Research Institute at the Australian National University. He has degrees in economics from the University of Melbourne, Yale University (where he was a Fulbright Scholar) and the ANU, where he gained his PhD in 2001. Prior to commencing his PhD, which was on index number theory in the context of cross-country comparisons of income and poverty, Robert worked as a researcher in the Australian Department of Immigration and a consultant economist in the Policy Research Department at the World Bank, based in Washington DC 1995-97. Since 2002 Robert has been working in the fields of network science, computational social science and web science, with a particular focus on quantitative analysis of online social and organisational networks. His research has appeared in journals such as the <i>Review of Economics and Statistics</i>, <i>Social Networks, Computational Economics, Social Science Computer Review, </i>and the <i>Journal of Social Structure</i>. Robert leads the Virtual Observatory for the Study of Online Networks project (</span><span style="FONT-FAMILY: ′Times New Roman′,serif; FONT-SIZE: 12pt" lang="EN-AU"><a href="http://voson.anu.edu.au/" target="_blank">http://voson.anu.edu.au</a></span><span style="FONT-FAMILY: ′Times New Roman′,serif; FONT-SIZE: 12pt" lang="EN-AU">), and teaches courses on survey statistics, the social science of the Internet and online research methods in the ANU′s Master of Social Research. He has been chief investigator on four Australian Research Council grants and in 2007, he was a UK National Centre for e-Social Science Visiting Fellow and James Martin Visiting Fellow at the Oxford Internet Institute. In 2011, he was appointed to the Science Council of the Web Foundation′s </span><span style="FONT-FAMILY: ′Times New Roman′,serif; FONT-SIZE: 12pt" lang="EN-AU">Web Index </span><span style="FONT-FAMILY: ′Times New Roman′,serif; FONT-SIZE: 12pt" lang="EN-AU">project. His book <i>Web Social Science</i> (SAGE) will be available in July 2013.</span><br></div>
+<div style="FONT-FAMILY: arial,sans-serif; FONT-SIZE: 14px"><br></div></div></div></div></span></font></strong>      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

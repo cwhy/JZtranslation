@@ -1,0 +1,10 @@
+{
+  "ID": "18032",
+  "category_name": "统计学习读书会（9次）",
+  "content": "../Chinese/18032.md",
+  "author": "jake",
+  "category_id": "47",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18032",
+  "path": "../Chinese/18032",
+  "title": "统计学习读书会9——机器视觉简介"
+}

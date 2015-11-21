@@ -1,0 +1,10 @@
+{
+  "ID": "18533",
+  "category_name": "可计算性理论研讨班",
+  "content": "../Chinese/18533.md",
+  "author": "king",
+  "category_id": "28",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18533",
+  "path": "../Chinese/18533",
+  "title": "可计算性理论研讨班"
+}

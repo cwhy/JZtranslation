@@ -1,0 +1,10 @@
+{
+  "ID": "18675",
+  "category_name": "高级认知相关的另类深度学习III",
+  "content": "../Chinese/18675.md",
+  "author": "king",
+  "category_id": "6",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18675",
+  "path": "../Chinese/18675",
+  "title": "高级认知相关的另类深度学习III"
+}

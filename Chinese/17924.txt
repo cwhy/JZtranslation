@@ -1,0 +1,10 @@
+{
+  "ID": "17924",
+  "category_name": "推荐与个性化：互联网的未来？",
+  "content": "../Chinese/17924.md",
+  "author": "jake",
+  "category_id": "49",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=17924",
+  "path": "../Chinese/17924",
+  "title": "推荐与个性化：互联网的未来？"
+}

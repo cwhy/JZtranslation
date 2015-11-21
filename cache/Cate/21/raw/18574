@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －AI天气预报员</title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">AI天气预报员</span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2014-06-30 02:59:47 由 <a href="gerenshouye.php?userid=2216" target="_blank">jake</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<div align="center">
+	<a href="http://www.swarma.org/swarma/download.php?id=681" target="_blank"><img border="0" src="http://www.swarma.org/files/201406300242_p2189394676.jpg" /></a></div>
+<div>
+	&nbsp;</div>
+<p>
+	时间:&nbsp; 07月06日 周日 14:30-17:00<br />
+	地点: 北京 海淀区 蕴味咖啡<br />
+	费用:&nbsp; 20元(饮料费)</p>
+<p>
+<strong>视频：</strong><a href="http://v.youku.com/v_show/id_XOTU0NDY4NDIw.html?from=s1.8-1-1.2">视频1</a>，<a href="http://v.youku.com/v_show/id_XOTU0NDc1Mjky.html?from=s1.8-1-1.2">视频2</a>
+	&nbsp;</p>
+<h2 style="PADDING-BOTTOM: 0px; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; MARGIN: 24px 0px 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: 15px/1.2 Arial, Helvetica, sans-serif; WHITE-SPACE: normal; LETTER-SPACING: normal; COLOR: rgb(0,119,34); WORD-SPACING: 0px; PADDING-TOP: 0px; -webkit-text-stroke-width: 0px">
+	活动详情</h2>
+<div class="wr" id="edesc_f" style="PADDING-BOTTOM: 0px; TEXT-TRANSFORM: none; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 590px; PADDING-RIGHT: 0px; FONT: 12px/19px Helvetica, Arial, sans-serif; WORD-WRAP: break-word; WHITE-SPACE: normal; TABLE-LAYOUT: fixed; LETTER-SPACING: normal; COLOR: rgb(17,17,17); OVERFLOW: hidden; WORD-SPACING: 0px; PADDING-TOP: 0px; -webkit-text-stroke-width: 0px">
+	&ldquo;彩云天气&rdquo;是一款在线天气预报服务，通过对中央气象台的雷达数据进行挖掘，实现分钟级别的天气预报。本项目由集智俱乐部成员 @淘幕天_袁行远 领导，@肖达_DeepLearner 和 李娟 共同参与，欢迎大家前往这里（<a href="http://www.douban.com/link2/?url=http%3A%2F%2Fcaiyunapp.com&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">http://caiyunapp.com<wbr /></a>）围观，看看我们是如何在体制外，以零成本小团队的方式，挑战世界级的重大科研项目。<span class="Apple-converted-space">&nbsp;</span><br />
+	<br />
+	为什么说是世界级的科研项目？与彩云天气类似 (使用图像处理技术来进行分钟级别的天气预报)，但服务仅限北美地区的APP有两个，Dark Sky（<a href="http://www.douban.com/link2/?url=http%3A%2F%2Fdarkskyapp.com%2F&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">http://darkskyapp.co<wbr />m/</a>）和Sky Motion（<a href="http://www.douban.com/link2/?url=http%3A%2F%2Fskymotion.com%2F&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">http://skymotion.com<wbr />/</a>）。前者在kickstart上获得4万美元筹款（这里（<a href="http://www.douban.com/link2/?url=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fjackadam%2Fdark-sky-hyperlocal-weather-prediction-and-visuali&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">https://www.kickstar<wbr />ter.com/projects/jac<wbr />kadam/dark-sky-hyper<wbr />local-weather-predic<wbr />tion-and-visuali</a>）是技术宅Adam Grossman &amp; Jack Turner的筹款计划书），此后以3.99美元的价格发布，到今年2月已经被下载四十万次。后者已经在去年11月被天气预报巨头AccuWeather重金收购。更多详细内容，以及传统的天气预报行业如何正在被数据挖掘技术改变，请查看这篇英文报道（<a href="http://www.douban.com/link2/?url=http%3A%2F%2Fwww.fastcompany.com%2F3023354%2Fweather-channel-a-storm-brews-over-weather&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">http://www.fastcompa<wbr />ny.com/3023354/weath<wbr />er-channel-a-storm-b<wbr />rews-over-weather</a>）。<span class="Apple-converted-space">&nbsp;</span><br />
+	<br />
+	最可贵的是，袁行远提出分钟级天气预报的研究计划时，他并不知道Dark Sky和Sky motion的存在。更没有预料到像AccuWeather这种存在半个多世纪的世界天气预报巨头会被这种一两个宅男开发出来的App威胁。我们相信将来会有更多像这种由集智成员发起和完成的科学项目，他们的想法，与这个时代最聪明的人同步，甚至领先一步，而不必总是走C2C（Copy to China）的路线。<span class="Apple-converted-space">&nbsp;</span><br />
+	<br />
+	活动内容：<span class="Apple-converted-space">&nbsp;</span><br />
+	1、数值天气预报的发展历史<span class="Apple-converted-space">&nbsp;</span><br />
+	2、气象雷达精细化预报<span class="Apple-converted-space">&nbsp;</span><br />
+	3、深度神经网络的应用<span class="Apple-converted-space">&nbsp;</span><br />
+	4、AI预言家（展望）<span class="Apple-converted-space">&nbsp;</span><br />
+	<br />
+	主讲人：<span class="Apple-converted-space">&nbsp;</span><br />
+	袁行远，集智俱乐部彩云天气项目发起人、全栈工程师，曾任淘宝广告算法工程师<span class="Apple-converted-space">&nbsp;</span><br />
+	肖达，彩云天气神经网络模型作者，北京邮电大学计算机学员讲师<span class="Apple-converted-space">&nbsp;</span><br />
+	<br />
+	彩云天气相关链接：<span class="Apple-converted-space">&nbsp;</span><br />
+	网页版：<a href="http://www.douban.com/link2/?url=http%3A%2F%2Fcaiyunapp.com%2F&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">http://caiyunapp.com<wbr />/</a><span class="Apple-converted-space">&nbsp;</span><br />
+	ios版本：<a href="http://www.douban.com/link2/?url=https%3A%2F%2Fitunes.apple.com%2Fcn%2Fapp%2Fcai-yun-tian-qi-tian-qi-lei%2Fid847764912%3Fls%3D1%26mt%3D8" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">https://itunes.apple<wbr />.com/cn/app/cai-yun-<wbr />tian-qi-tian-qi-lei/<wbr />id847764912?ls=1&amp;<wbr />;mt=8</a><span class="Apple-converted-space">&nbsp;</span><br />
+	安卓版：<a href="http://www.douban.com/link2/?url=http%3A%2F%2Fwww.wandoujia.com%2Fapps%2Fcom.nowcasting.activity&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">http://www.wandoujia<wbr />.com/apps/com.nowcas<wbr />ting.activity</a><span class="Apple-converted-space">&nbsp;</span><br />
+	API：<a href="http://www.douban.com/link2/?url=http%3A%2F%2Fwiki.swarma.net%2Findex.php%2F%25E5%25BD%25A9%25E4%25BA%2591%25E5%25A4%25A9%25E6%25B0%2594API&amp;link2key=6d2a936f9f" rel="nofollow" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none" target="_blank">http://wiki.swarma.n<wbr />et/index.php/%E5%BD%<wbr />A9%E4%BA%91%E5%A4%A9<wbr />%E6%B0%94API</a><a href="http://www.douban.com/event/21970164/#" id="foldDescHook" style="COLOR: rgb(51,119,170); CURSOR: pointer; TEXT-DECORATION: none"><span class="Apple-converted-space">&nbsp;</span></a></div>
+      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>

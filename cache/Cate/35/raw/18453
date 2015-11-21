@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>集智俱乐部 －脑与deep learning读书会2. Models of Primary Visual Cortex </title>
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/total.css" rel="stylesheet" type="text/css" />
+
+<link href="css/sub_huodong.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+<div class="contant_all">
+<div class="contant">
+<div class="main_head">
+<div style="height: 25px;
+	width: 284px;
+	position: absolute;
+	z-index: 1;
+	margin: 0px;
+	float: left;
+	left: 900px;
+	top: 50px;
+	padding: 0px;"><a href="denglu.php">登录</a> | <a href="zhuce.php">注册</a></div>
+<div class="main_headl"></div>
+<div class="main_headr">
+<div class="main_heada"><a href="index.php">首页</a></div>
+<div class="main_heada"><a href="huodong.php"><font color="#FF9966">集智活动</font></a></div>
+<div class="main_heada"><a href="list_zong.php">头脑风暴</a></div>
+<div class="main_heada"><a href="http://www.swarma.org/thesis/">共享资源</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net" target="_blank"><font color="#668126">集智WIKI</font></a></div>
+<div class="main_heada"><a href="http://www.swarma.org/vm/">虚拟世界</a></div>
+<div class="main_heada"><a href="http://wiki.swarma.net/index.php/%E9%9B%86%E6%99%BA">关于我们</a></div>
+
+</div>
+
+</div><div class="main_middle">
+<div class="sub_left">
+<div class="sub_left_g">
+<div class="sub_left_gt">集智活动</div>
+</div>
+<div class="sub_left_g">
+  <div class="sub_left_g" >
+<div class="sub_left_wa"><a href="huodong_jianjie.php">集智活动简介</a></div>
+<div class="sub_left_wa"><a href="huodong.php?bankuai_id=3">公开活动</a></div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18725">基于大数据预测地区发展 | 公开活动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18712">产品开发与工业未来</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18701">互联网的动力引擎</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18695">开源科学与人工智能</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18682">开源科学：人类科学往何处去？+新书推广——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18681">2015年集智年会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18673">石头－剪刀－布中的统计物理</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18659">重新构想：消费者及消费意愿 ——互联网到底改变了什么</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18646">城市的数学模型</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong_neirong.php?id=18626">集智之夜——集智俱乐部“机器、意识与心灵”沙龙</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=3">更多</a></div>
+</div>
+<div class="sub_left_wa">小组活动</div>
+<div class="sub_left_ws_a">
+ 	<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=23">《临界》读书会——南京</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=22">集体注意力与人类计算</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=21">高级认知深度学习</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=20">科学哲学读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=19">可计算性理论研讨</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=18">复杂网络与流动</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=17">探索脑与Deep learning</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=16">自然语言处理读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=15">信息论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=13">量子力学补习班</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=12">统计学习读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=11">量子决策理论读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=10">AI小组第三期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=9">"生态中性理论"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=8">"计算心理学"读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=7">复杂经济学小组读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=6">AI小组第一期读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=5">热力学与进化论小组第一期</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=4">"蓝色7月"电影节</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=2">“探索脑”读书会</a></div>
+		<div class="sub_left_ws_t" style="padding:0 10px 0 35px; line-height:25px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a href="huodong.php?bankuai_id=1">GEB读书会</a></div>
+	
+<div class="sub_left_ws_tm"><a href="huodong.php?bankuai_id=14">更多</a></div>
+</div>
+
+</div>
+</div>
+<div class="sub_left_g"></div></div>
+<div class="sub_right">
+<SCRIPT language=JavaScript>
+<!--
+function SelText1()
+{
+	if (document.form1.sousuo_neirong.value == "在这里输入搜索内容搜索")
+	{
+	document.form1.sousuo_neirong.value = "";
+	}
+}
+//-->
+</SCRIPT>
+<form name="form1" method="post" action="huodong.php">
+<div class="sub_right_se">
+
+<div class="sub_right_sea"><a href="huodong.php"><font color="#4481c0"><strong>全部活动</strong></font></a></div>
+<div class="sub_right_sea"><a href="huodong_v.php">活动视频</a></div>
+<div class="sub_right_sea">&nbsp;</div>
+<div class="sub_right_sec"><input name="sousuo_neirong" type="text" class="NFText_newa" value="在这里输入搜索内容搜索"  onClick=SelText1();   size="30" /><div style="position:relative;"><div style="position:absolute; left:251px; top:-20px;"><input name="Submit" type="image"  src="images/input2.jpg" width="17" height="16" border="0" ></div></div></div>
+</div>
+  </form>
+<div class="sub_right_l">
+  <div class="sub_right_lt">
+      <div class="sub_right_ltl">
+        <div class="sub_right_ltlt"><span class="css_big_b">脑与deep learning读书会2. Models of Primary Visual Cortex </span></div>
+        <div class="sub_right_ltlb"><img src="images/c_right2.jpg" />发表于 2013-07-21 04:41:14 由 <a href="gerenshouye.php?userid=2497" target="_blank">king</a></div>
+      </div>
+    </div>
+    <div class="sub_right_lb">
+	<p style="font-family: Arial; font-size: 10.5pt;"><strong style="color: rgb(34, 34, 34); font-family: Simsun; font-size: 12px; letter-spacing: 1px; line-height: 20px;"></strong></p><div align="center"><strong style="color: rgb(34, 34, 34); font-family: Simsun; font-size: 12px; letter-spacing: 1px; line-height: 20px;"><a href="download.php?id=631" target="_blank" style="text-decoration: none; color: rgb(0, 107, 206);"><img border="0" src="http://www.swarmagents.cn/files/201306050049_deep_thinkers-1p8fp2c.jpg" style="vertical-align: middle; border-style: none; border-width: 0px;"></a></strong></div><p></p><p style="font-family: Arial; font-size: 10.5pt;"><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">脑与deep learning读书会2.Descriptive, Mechanistic and Interpretive Models of Primary Visual Cortex&nbsp;</span></p><p><strong>录音：</strong><a href="http://www.douban.com/link2?url=http%3A%2F%2Fwww.duobei.com%2Froom%2F3011311368&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">http://www.duobei.co<wbr>m/room/3011311368</a></p><p><strong>讲稿：</strong><a href="http://www.douban.com/link2?url=http%3A%2F%2Fvdisk.weibo.com%2Fs%2Fu4Vws15JLvz_z&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">http://vdisk.weibo.c<wbr>om/s/u4Vws15JLvz_z</a><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">&nbsp;，</span><a href="http://www.douban.com/link2?url=http%3A%2F%2Fvdisk.weibo.com%2Fs%2Fu4Vws15JLvz_l&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">http://vdisk.weibo.c<wbr>om/s/u4Vws15JLvz_l</a></p><p></p><p><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">袁行远，What do we know about V1&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">　　</span><a href="http://www.douban.com/link2?url=http%3A%2F%2Fvdisk.weibo.com%2Fs%2Fu4Vws15JLvz_z&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">http://vdisk.weibo.c<wbr>om/s/u4Vws15JLvz_z</a><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">　　&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">　　代码演示网址&nbsp;</span><a href="http://www.douban.com/link2?url=http%3A%2F%2Fwww.demogng.de%2F&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">http://www.demogng.d<wbr>e/</a><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">　　&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">　　肖达，Modular organization of neocortex and its implication for computer vision&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">　　</span><a href="http://www.douban.com/link2?url=http%3A%2F%2Fvdisk.weibo.com%2Fs%2Fu4Vws15JLvz_l&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;">http://vdisk.weibo.c<wbr>om/s/u4Vws15JLvz_l</a><br><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">时间：2013年6月30日下午2点半&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">地点：海淀区学清路768创意产业园B座蕴味咖啡（公交“石板房”站，问路电话61199210）&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　题目：Descriptive, Mechanistic and Interpretive Models of Primary Visual Cortex&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　主讲人：肖达，北京邮电大学计算机学院教师。&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 袁行远，前淘宝网数据挖掘与并行计算高级算法工程师，现辞职休假中。&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　提纲：&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　1.Descriptive models (What):&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 * Responses of a Neuron in an Intact Cat Brain, (视频: Hubel &amp; Wiesel - Cortical Neuron - V1&nbsp;</span><a href="http://www.douban.com/link2?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDc0MTkxODc2.html&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; line-height: 19px;">http://v.youku.com/v<wbr>_show/id_XNDc0MTkxOD<wbr>c2.html</a><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">)&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 * Contrast sensitivity of Human&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 * Receptive Fields and Edges Detection Program Demo&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　2.Machanistic Models (How):&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 * Oriented Receptive Fields and Position-Less Receptive Fields&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 * Fourier Decomposition hypothesis&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 * Build Self-Organizing Map for V1&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　3.Interpretive Models (Why):&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　 * What is the Best Multi-Stage Architecture for Object Recognition&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　4.The columnar organization of the neocortex and its implication for computer vision&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　参考文献：&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　【NB】Matteo Carandini (2012) Area V1. Scholarpedia, 7(7):12105.&nbsp;</span><a href="http://www.douban.com/link2?url=http%3A%2F%2Fwww.scholarpedia.org%2Farticle%2FArea_V1&amp;link2key=8207e7ad0d" target="_blank" rel="nofollow" style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; cursor: pointer; color: rgb(51, 119, 170); text-decoration: none; line-height: 19px;">http://www.scholarpe<wbr>dia.org/article/Area<wbr>_V1</a><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　【NB】【CM】Carandini M, et al. (2005) Do we know what the early visual system does? Journal of Neuroscience, 25:10577-10597.&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　【NB】Douglas, RJ and Martin, KAC (2007) Recurrent neuronal circuits in the neocortex. Current Opinion in Biology, 17:496-500.&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　【NB】Douglas, RJ and Martin, KAC (2010) Canonical cortical circuits. Chapter 2 in Handbook of Brain Microcircuits 15-21.&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　【ML】Kevin Jarrett, Koray Kavukcuoglu, Marc’Aurelio Ranzato, and Yann LeCun. (2009) What is the Best Multi-Stage Architecture for Object Recognition? in Proc. International Conference on Computer Vision (ICCV’09).&nbsp;</span><br style="color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-height: 19px;"><span style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; color: rgb(17, 17, 17); line-height: 19px;">　　(文章前的标签代表类型，NB=神经生物学发现，CM=计算模型，ML=机器学习算法，SP=统计物理。)</span></p>      </div>
+      <div class="sub_right_lbrb_ge"></div>
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="main_foot">
+<div class="main_foota">2012－2022 www.swarma.org, all rights reserved</div>
+<div class="main_footb"><a href="http://site.douban.com/swarmagents/">集智豆瓣</a> <a href="http://www.swarma.org/lastindex.asp">旧版网站</a></div>
+</div>
+</div>
+</div>
+</body>
+</html>
