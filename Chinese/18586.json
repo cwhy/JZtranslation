@@ -1,10 +1,10 @@
 {
-  "category_id": "20",
   "author": "jake",
-  "category_name": "瓦克星计划工作坊（第一期）",
+  "category_id": "20",
+  "content": "../Chinese/18586.md",
   "title": "瓦克星计划工作坊（第一期）",
-  "ID": "18586",
-  "path": "../Chinese/18586",
   "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18586",
-  "content": "../Chinese/18586.md"
+  "category_name": "瓦克星计划工作坊（第一期）",
+  "ID": "18586",
+  "path": "../Chinese/18586"
 }

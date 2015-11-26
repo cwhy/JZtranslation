@@ -1,10 +1,10 @@
 {
-  "category_id": "30",
   "author": "king",
-  "category_name": "【脑与深度学习读书会】 睡眠与记忆",
+  "category_id": "30",
+  "content": "../Chinese/18496.md",
   "title": "【脑与深度学习读书会】 睡眠与记忆",
-  "ID": "18496",
-  "path": "../Chinese/18496",
   "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18496",
-  "content": "../Chinese/18496.md"
+  "category_name": "【脑与深度学习读书会】 睡眠与记忆",
+  "ID": "18496",
+  "path": "../Chinese/18496"
 }

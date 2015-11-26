@@ -1,10 +1,10 @@
 {
-  "category_id": "23",
   "author": "king",
-  "category_name": "最后一次计算理论读书会",
+  "category_id": "23",
+  "content": "../Chinese/18565.md",
   "title": "最后一次计算理论读书会",
-  "ID": "18565",
-  "path": "../Chinese/18565",
   "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18565",
-  "content": "../Chinese/18565.md"
+  "category_name": "最后一次计算理论读书会",
+  "ID": "18565",
+  "path": "../Chinese/18565"
 }

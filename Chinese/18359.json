@@ -1,10 +1,10 @@
 {
-  "category_id": "41",
   "author": "jake",
-  "category_name": "《信息论基础》读书会（6次）",
+  "category_id": "41",
+  "content": "../Chinese/18359.md",
   "title": "《信息论基础》第一次读书会",
-  "ID": "18359",
-  "path": "../Chinese/18359",
   "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18359",
-  "content": "../Chinese/18359.md"
+  "category_name": "《信息论基础》读书会（6次）",
+  "ID": "18359",
+  "path": "../Chinese/18359"
 }
