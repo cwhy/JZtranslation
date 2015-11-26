@@ -2,8 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce78c50b-7e8f-4d54-9b78-cd11e3f05be7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../dictonary/.common.json.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../dictonary/.jargons.json.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../translate/17331.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../dictonary/common.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tr.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../common.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../jargons.json" afterPath="$PROJECT_DIR$/../dictonary/jargons.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.zcompdump-GTThink-5.0.2" afterPath="$USER_HOME$/.zcompdump-GTThink-5.0.2" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.zsh-update" afterPath="$USER_HOME$/.zsh-update" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17331.json" afterPath="$PROJECT_DIR$/../Chinese/17331.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17506.json" afterPath="$PROJECT_DIR$/../Chinese/17506.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17733.json" afterPath="$PROJECT_DIR$/../Chinese/17733.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17765.json" afterPath="$PROJECT_DIR$/../Chinese/17765.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17766.json" afterPath="$PROJECT_DIR$/../Chinese/17766.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17784.json" afterPath="$PROJECT_DIR$/../Chinese/17784.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17793.json" afterPath="$PROJECT_DIR$/../Chinese/17793.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17870.json" afterPath="$PROJECT_DIR$/../Chinese/17870.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17914.json" afterPath="$PROJECT_DIR$/../Chinese/17914.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17914.md" afterPath="$PROJECT_DIR$/../Chinese/17914.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17923.json" afterPath="$PROJECT_DIR$/../Chinese/17923.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17924.json" afterPath="$PROJECT_DIR$/../Chinese/17924.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18032.json" afterPath="$PROJECT_DIR$/../Chinese/18032.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18341.json" afterPath="$PROJECT_DIR$/../Chinese/18341.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18359.json" afterPath="$PROJECT_DIR$/../Chinese/18359.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18359.md" afterPath="$PROJECT_DIR$/../Chinese/18359.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18368.json" afterPath="$PROJECT_DIR$/../Chinese/18368.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18375.json" afterPath="$PROJECT_DIR$/../Chinese/18375.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18375.md" afterPath="$PROJECT_DIR$/../Chinese/18375.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18381.json" afterPath="$PROJECT_DIR$/../Chinese/18381.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18389.json" afterPath="$PROJECT_DIR$/../Chinese/18389.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18395.json" afterPath="$PROJECT_DIR$/../Chinese/18395.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18395.md" afterPath="$PROJECT_DIR$/../Chinese/18395.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18398.json" afterPath="$PROJECT_DIR$/../Chinese/18398.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18409.json" afterPath="$PROJECT_DIR$/../Chinese/18409.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18414.json" afterPath="$PROJECT_DIR$/../Chinese/18414.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18414.md" afterPath="$PROJECT_DIR$/../Chinese/18414.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18420.json" afterPath="$PROJECT_DIR$/../Chinese/18420.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18425.json" afterPath="$PROJECT_DIR$/../Chinese/18425.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18425.md" afterPath="$PROJECT_DIR$/../Chinese/18425.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18426.json" afterPath="$PROJECT_DIR$/../Chinese/18426.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18429.json" afterPath="$PROJECT_DIR$/../Chinese/18429.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18429.md" afterPath="$PROJECT_DIR$/../Chinese/18429.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18430.json" afterPath="$PROJECT_DIR$/../Chinese/18430.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18435.json" afterPath="$PROJECT_DIR$/../Chinese/18435.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18435.md" afterPath="$PROJECT_DIR$/../Chinese/18435.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18453.json" afterPath="$PROJECT_DIR$/../Chinese/18453.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18453.md" afterPath="$PROJECT_DIR$/../Chinese/18453.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18454.json" afterPath="$PROJECT_DIR$/../Chinese/18454.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18462.json" afterPath="$PROJECT_DIR$/../Chinese/18462.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18465.json" afterPath="$PROJECT_DIR$/../Chinese/18465.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18465.md" afterPath="$PROJECT_DIR$/../Chinese/18465.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18476.json" afterPath="$PROJECT_DIR$/../Chinese/18476.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18480.json" afterPath="$PROJECT_DIR$/../Chinese/18480.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18496.json" afterPath="$PROJECT_DIR$/../Chinese/18496.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18496.md" afterPath="$PROJECT_DIR$/../Chinese/18496.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18499.json" afterPath="$PROJECT_DIR$/../Chinese/18499.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18499.md" afterPath="$PROJECT_DIR$/../Chinese/18499.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18533.json" afterPath="$PROJECT_DIR$/../Chinese/18533.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18536.json" afterPath="$PROJECT_DIR$/../Chinese/18536.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18545.json" afterPath="$PROJECT_DIR$/../Chinese/18545.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18545.md" afterPath="$PROJECT_DIR$/../Chinese/18545.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18554.json" afterPath="$PROJECT_DIR$/../Chinese/18554.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18554.md" afterPath="$PROJECT_DIR$/../Chinese/18554.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18565.json" afterPath="$PROJECT_DIR$/../Chinese/18565.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18565.md" afterPath="$PROJECT_DIR$/../Chinese/18565.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18574.json" afterPath="$PROJECT_DIR$/../Chinese/18574.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18586.json" afterPath="$PROJECT_DIR$/../Chinese/18586.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18627.json" afterPath="$PROJECT_DIR$/../Chinese/18627.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18627.md" afterPath="$PROJECT_DIR$/../Chinese/18627.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18659.json" afterPath="$PROJECT_DIR$/../Chinese/18659.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18664.json" afterPath="$PROJECT_DIR$/../Chinese/18664.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18664.md" afterPath="$PROJECT_DIR$/../Chinese/18664.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18665.json" afterPath="$PROJECT_DIR$/../Chinese/18665.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18665.md" afterPath="$PROJECT_DIR$/../Chinese/18665.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18670.json" afterPath="$PROJECT_DIR$/../Chinese/18670.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18675.json" afterPath="$PROJECT_DIR$/../Chinese/18675.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18695.json" afterPath="$PROJECT_DIR$/../Chinese/18695.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18695.md" afterPath="$PROJECT_DIR$/../Chinese/18695.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18701.json" afterPath="$PROJECT_DIR$/../Chinese/18701.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18701.md" afterPath="$PROJECT_DIR$/../Chinese/18701.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18702.json" afterPath="$PROJECT_DIR$/../Chinese/18702.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18702.md" afterPath="$PROJECT_DIR$/../Chinese/18702.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_structure.py" afterPath="$PROJECT_DIR$/get_structure.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scripts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +106,39 @@
     <favorites_list name="scripts" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="tr.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5469613">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_structure.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_structure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/get_structure.py" />
+        <option value="$PROJECT_DIR$/tr.py" />
       </list>
     </option>
   </component>
@@ -83,6 +190,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -104,7 +212,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -119,7 +226,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.get_structure">
+  <component name="RunManager" selected="Python.tr">
     <configuration default="false" name="get_structure" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,6 +240,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scripts" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_structure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scripts" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -259,12 +383,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.get_structure" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tr" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_structure" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.tr" />
+        <item index="1" class="java.lang.String" itemvalue="Python.get_structure" />
       </list>
     </recent_temporary>
   </component>
@@ -283,26 +409,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24365872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24365872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41579732" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41579732" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -346,8 +472,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/get_structure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74585634">
+        <state vertical-scroll-proportion="0.0">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5469613">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

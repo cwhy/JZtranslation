@@ -1,10 +1,10 @@
 {
-  "title": "开源科学与人工智能",
-  "content": "../Chinese/18695.md",
-  "category_name": "开源科学与人工智能",
-  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18695",
-  "path": "../Chinese/18695",
   "category_id": "3",
   "author": "king",
-  "ID": "18695"
+  "category_name": "开源科学与人工智能",
+  "title": "开源科学与人工智能",
+  "ID": "18695",
+  "path": "../Chinese/18695",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18695",
+  "content": "../Chinese/18695.md"
 }

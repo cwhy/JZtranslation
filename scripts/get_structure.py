@@ -3,22 +3,30 @@ import os
 import os.path as op
 import json
 import requests
+import glob
+
 from html2text import html2text
 from bs4 import BeautifulSoup
 
 CACHE_DIR = op.join(op.pardir, 'cache')
 CN_DIR = op.join(op.pardir, 'Chinese')
 LIST_DIR = op.join(op.pardir, 'list.txt')
-DICT_DIR = op.join(op.pardir, 'jargons.json')
+DICT_DIR = op.join(op.pardir, 'dictionary')
 
 
 def jargon_translate(txt):
-    with open(DICT_DIR, 'r') as _f:
-        dict_file = _f.read()
-    dic = json.loads(dict_file)
-    pattern = re.compile('|'.join(dic.keys()))
-    result = pattern.sub(lambda x: dic[x.group()], txt)
-    return result
+    dic = {}
+    for file_ in glob.glob(op.join(DICT_DIR, '*.json')):
+        with open(file_, 'r') as _f:
+            _dict_file = _f.read()
+        _dic = json.loads(_dict_file)
+        dic.update(_dic)
+    if dic:
+        pattern = re.compile('|'.join(dic.keys()))
+        result = pattern.sub(lambda x: dic[x.group()], txt)
+        return result
+    else:
+        return txt
 
 
 class Page(object):

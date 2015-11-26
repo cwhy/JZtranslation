@@ -1,10 +1,10 @@
 {
-  "title": "集体注意力与人类计算读书会",
-  "content": "../Chinese/18702.md",
-  "category_name": "集体注意力与人类计算读书会",
-  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18702",
-  "path": "../Chinese/18702",
   "category_id": "1",
   "author": "jake",
-  "ID": "18702"
+  "category_name": "集体注意力与人类计算读书会",
+  "title": "集体注意力与人类计算读书会",
+  "ID": "18702",
+  "path": "../Chinese/18702",
+  "url": "http://www.swarma.org/swarma/huodong_neirong.php?id=18702",
+  "content": "../Chinese/18702.md"
 }
