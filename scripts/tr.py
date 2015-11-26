@@ -22,18 +22,25 @@ file_list = set()
 for _file_name in glob.glob(op.join(CN_DIR, '*.md')):
     file_list.add(_file_name.split('/')[-1].split('.')[0])
 
-while True:
-    command = input(">> ")
-    if command == "exit" or (not command):
+current_file_id = ""
+command = input(">> ")
+while command:
+    if command == "exit":
         break
     elif command in file_list:
         edit(command)
+        command = input(">> ")
     elif command == "next":
         for _file_name in glob.glob(op.join(TR_DIR, '*.json')):
-            file_list.remove(_file_name.split('/')[-1].split('.')[0])
-        edit(sorted(file_list)[0])
+            file_list.discard(_file_name.split('/')[-1].split('.')[0])
+        current_file_id = sorted(file_list)[0]
+        edit(current_file_id)
+        command = input(">> ")
+    elif command == "complete" and current_file_id:
+        _file_name_orig = op.join(CN_DIR, current_file_id + '.json')
+        _file_name = op.join(TR_DIR, current_file_id + '.json')
+        shutil.copy(_file_name_orig, _file_name)
+        command = input(">> ")
     else:
         command = input(">> ")
-
-
 

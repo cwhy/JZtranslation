@@ -2,91 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce78c50b-7e8f-4d54-9b78-cd11e3f05be7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../dictonary/.common.json.swp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../dictonary/.jargons.json.swp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../translate/17331.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../dictonary/common.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tr.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../common.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../jargons.json" afterPath="$PROJECT_DIR$/../dictonary/jargons.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.zcompdump-GTThink-5.0.2" afterPath="$USER_HOME$/.zcompdump-GTThink-5.0.2" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.zsh-update" afterPath="$USER_HOME$/.zsh-update" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17331.json" afterPath="$PROJECT_DIR$/../Chinese/17331.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17506.json" afterPath="$PROJECT_DIR$/../Chinese/17506.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17733.json" afterPath="$PROJECT_DIR$/../Chinese/17733.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17765.json" afterPath="$PROJECT_DIR$/../Chinese/17765.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17766.json" afterPath="$PROJECT_DIR$/../Chinese/17766.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17784.json" afterPath="$PROJECT_DIR$/../Chinese/17784.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17793.json" afterPath="$PROJECT_DIR$/../Chinese/17793.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17870.json" afterPath="$PROJECT_DIR$/../Chinese/17870.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17914.json" afterPath="$PROJECT_DIR$/../Chinese/17914.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17914.md" afterPath="$PROJECT_DIR$/../Chinese/17914.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17923.json" afterPath="$PROJECT_DIR$/../Chinese/17923.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/17924.json" afterPath="$PROJECT_DIR$/../Chinese/17924.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18032.json" afterPath="$PROJECT_DIR$/../Chinese/18032.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18341.json" afterPath="$PROJECT_DIR$/../Chinese/18341.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18359.json" afterPath="$PROJECT_DIR$/../Chinese/18359.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18359.md" afterPath="$PROJECT_DIR$/../Chinese/18359.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18368.json" afterPath="$PROJECT_DIR$/../Chinese/18368.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18375.json" afterPath="$PROJECT_DIR$/../Chinese/18375.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18375.md" afterPath="$PROJECT_DIR$/../Chinese/18375.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18381.json" afterPath="$PROJECT_DIR$/../Chinese/18381.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18389.json" afterPath="$PROJECT_DIR$/../Chinese/18389.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18395.json" afterPath="$PROJECT_DIR$/../Chinese/18395.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18395.md" afterPath="$PROJECT_DIR$/../Chinese/18395.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18398.json" afterPath="$PROJECT_DIR$/../Chinese/18398.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18409.json" afterPath="$PROJECT_DIR$/../Chinese/18409.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18414.json" afterPath="$PROJECT_DIR$/../Chinese/18414.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18414.md" afterPath="$PROJECT_DIR$/../Chinese/18414.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18420.json" afterPath="$PROJECT_DIR$/../Chinese/18420.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18425.json" afterPath="$PROJECT_DIR$/../Chinese/18425.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18425.md" afterPath="$PROJECT_DIR$/../Chinese/18425.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18426.json" afterPath="$PROJECT_DIR$/../Chinese/18426.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18429.json" afterPath="$PROJECT_DIR$/../Chinese/18429.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18429.md" afterPath="$PROJECT_DIR$/../Chinese/18429.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18430.json" afterPath="$PROJECT_DIR$/../Chinese/18430.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18435.json" afterPath="$PROJECT_DIR$/../Chinese/18435.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18435.md" afterPath="$PROJECT_DIR$/../Chinese/18435.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18453.json" afterPath="$PROJECT_DIR$/../Chinese/18453.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18453.md" afterPath="$PROJECT_DIR$/../Chinese/18453.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18454.json" afterPath="$PROJECT_DIR$/../Chinese/18454.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18462.json" afterPath="$PROJECT_DIR$/../Chinese/18462.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18465.json" afterPath="$PROJECT_DIR$/../Chinese/18465.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18465.md" afterPath="$PROJECT_DIR$/../Chinese/18465.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18476.json" afterPath="$PROJECT_DIR$/../Chinese/18476.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18480.json" afterPath="$PROJECT_DIR$/../Chinese/18480.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18496.json" afterPath="$PROJECT_DIR$/../Chinese/18496.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18496.md" afterPath="$PROJECT_DIR$/../Chinese/18496.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18499.json" afterPath="$PROJECT_DIR$/../Chinese/18499.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18499.md" afterPath="$PROJECT_DIR$/../Chinese/18499.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18533.json" afterPath="$PROJECT_DIR$/../Chinese/18533.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18536.json" afterPath="$PROJECT_DIR$/../Chinese/18536.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18545.json" afterPath="$PROJECT_DIR$/../Chinese/18545.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18545.md" afterPath="$PROJECT_DIR$/../Chinese/18545.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18554.json" afterPath="$PROJECT_DIR$/../Chinese/18554.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18554.md" afterPath="$PROJECT_DIR$/../Chinese/18554.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18565.json" afterPath="$PROJECT_DIR$/../Chinese/18565.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18565.md" afterPath="$PROJECT_DIR$/../Chinese/18565.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18574.json" afterPath="$PROJECT_DIR$/../Chinese/18574.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18586.json" afterPath="$PROJECT_DIR$/../Chinese/18586.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18627.json" afterPath="$PROJECT_DIR$/../Chinese/18627.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18627.md" afterPath="$PROJECT_DIR$/../Chinese/18627.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18659.json" afterPath="$PROJECT_DIR$/../Chinese/18659.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18664.json" afterPath="$PROJECT_DIR$/../Chinese/18664.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18664.md" afterPath="$PROJECT_DIR$/../Chinese/18664.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18665.json" afterPath="$PROJECT_DIR$/../Chinese/18665.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18665.md" afterPath="$PROJECT_DIR$/../Chinese/18665.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18670.json" afterPath="$PROJECT_DIR$/../Chinese/18670.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18675.json" afterPath="$PROJECT_DIR$/../Chinese/18675.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18695.json" afterPath="$PROJECT_DIR$/../Chinese/18695.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18695.md" afterPath="$PROJECT_DIR$/../Chinese/18695.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18701.json" afterPath="$PROJECT_DIR$/../Chinese/18701.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18701.md" afterPath="$PROJECT_DIR$/../Chinese/18701.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18702.json" afterPath="$PROJECT_DIR$/../Chinese/18702.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Chinese/18702.md" afterPath="$PROJECT_DIR$/../Chinese/18702.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/get_structure.py" afterPath="$PROJECT_DIR$/get_structure.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../translate/17331.md" afterPath="$PROJECT_DIR$/../translate/17331.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tr.py" afterPath="$PROJECT_DIR$/tr.py" />
     </list>
     <ignored path="scripts.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,8 +29,8 @@
       <file leaf-file-name="tr.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5469613">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.049723756">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -480,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5469613">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.049723756">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
