@@ -36,11 +36,10 @@ while command:
         current_file_id = sorted(file_list)[0]
         edit(current_file_id)
         command = input(">> ")
-    elif command == "complete" and current_file_id:
+    elif command == "done" and current_file_id:
         _file_name_orig = op.join(CN_DIR, current_file_id + '.json')
         _file_name = op.join(TR_DIR, current_file_id + '.json')
         shutil.copy(_file_name_orig, _file_name)
         command = input(">> ")
     else:
         command = input(">> ")
-
